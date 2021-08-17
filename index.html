@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>CodePen - HTML_Video</title>
+  <link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<html>
+  <body>
+    <video id="src" autoplay="true"></video>
+    <canvas id="ori" ></canvas>
+    <canvas id="sub" ></canvas>
+    <div id="sliders">
+      <div class="row">
+        <label>Width:</label>
+        <span id="val_w"></span>
+        <input type="range" id="slider_w" min="0" onchange="updateTextInput(this.id,this.value);resizeCrop('x',this.value);">
+      </div>
+      <div class="row">
+        <label>Height:</label>
+        <span id="val_h"></span>
+        <input type="range" id="slider_h" min="0" onchange="updateTextInput(this.id,this.value);resizeCrop('y',this.value);">
+      </div>
+      <div class="row">
+        <label>X-Pos:</label>
+        <span id="val_x"></span>
+        <input type="range" id="slider_x" min="0" onchange="updateTextInput(this.id,this.value);">
+      </div>
+      <div class="row">
+        <label>Y-Pos:</label>
+        <span id="val_y"></span>
+        <input type="range" id="slider_y" min="0" onchange="updateTextInput(this.id,this.value);">
+      </div>
+    </div>
+  </body>
+</html>
+<!-- partial -->
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js'></script><script  src="./script.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,47 @@
+html, body {
+  height: 100%;
+  width:100%;
+  margin: 0;
+}
+#sub {
+  left:5vh;
+  top:5vh;
+  position:fixed;
+  background:transparent;
+/*   transform: scaleX(-1); */
+  text-align:left;
+/*   overflow:hidden; */
+}
+#src {
+  display:none;
+}
+#ori {
+  /*width: 500px;*/
+  /*height: 100%;*/
+/*   width: 100vw; */
+/*   min-height:100vh; */
+/*   height:100vh; */
+/*   object-fit: fill; */
+  margin:0 auto;
+  position:fixed;
+/*   transform: scaleX(-1); */
+  z-index:-1;
+}
+#sliders {
+  right:5vh;
+  bottom:5vh;
+  position:fixed;
+  display:flex;
+  flex-direction:column;
+  width:35vw;
+  justify-content:space-between;
+  height:30vh;
+}
+.row{
+  display:flex;
+  justify-content: space-between;
+}
+
+input{
+  width:70%;
+}
