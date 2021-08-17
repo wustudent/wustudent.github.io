@@ -31,7 +31,7 @@ $(function () {
     constraints = {
         video: {
             facingMode:{
-                ideal:"user"
+                ideal:"environment"
             }
         },
         audio: false
