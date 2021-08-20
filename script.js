@@ -75,7 +75,7 @@ let constraints = {
     video: {
         facingMode: {
             /* "environment" for rear camera, "user for front camera" */
-            // ideal:"environment"
+            ideal:"environment"
         }
     },
     audio: false
