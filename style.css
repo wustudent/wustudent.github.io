@@ -1,6 +1,6 @@
 html, body {
-  height: 100vh;
-  width: 100vw;
+  height: 100%;
+  width:100%;
   margin: 0;
 }
 #sub {
@@ -8,23 +8,14 @@ html, body {
   top:5vh;
   position:fixed;
   background:transparent;
-/*   transform: scaleX(-1); */
   text-align:left;
-/*   overflow:hidden; */
 }
 #src {
   display:none;
 }
 #ori {
-  /*width: 500px;*/
-  /*height: 100%;*/
-/*   width: 100vw; */
-/*   min-height:100vh; */
-/*   height:100vh; */
-/*   object-fit: fill; */
   margin:0 auto;
   position:fixed;
-/*   transform: scaleX(-1); */
   z-index:-1;
 }
 #sliders {
@@ -33,9 +24,9 @@ html, body {
   position:fixed;
   display:flex;
   flex-direction:column;
-  width:35vw;
+  min-width:45vw;
   justify-content:space-between;
-  height:30vh;
+  min-height:50vh;
 }
 .row{
   display:flex;
