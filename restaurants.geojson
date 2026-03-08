@@ -2811,8 +2811,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.2971282,
-          52.5120596
+          13.2974907,
+          52.5119442
         ]
       },
       "properties": {
@@ -2828,15 +2828,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.336767,
-          52.5056589
+          13.335549,
+          52.5057234
         ]
       },
       "properties": {
         "name": "Lu Kitchen (Bikini)",
         "englishName": "Lu Kitchen (Bikini)",
         "category": "小吃",
-        "address": "Kantini1.OG, Bikini, Budapester Str. 38-50, 10787 Berlin",
+        "address": "Budapester Str. 38-50, 10787 Berlin",
         "district": "Charlottenburg"
       }
     },
@@ -2845,15 +2845,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.3356941,
-          52.5057242
+          13.335549,
+          52.5057234
         ]
       },
       "properties": {
         "name": "BiangBiangMing(Bikini)",
         "englishName": "Biang Biang Ming(Bikini)",
         "category": "面馆",
-        "address": "Kantini1.OG, Bikini, Budapester Str. 38-50, 10787 Berlin",
+        "address": "Budapester Str. 38-50, 10787 Berlin",
         "district": "Charlottenburg"
       }
     },
@@ -2862,8 +2862,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.3939002,
-          52.5205357
+          13.3947157,
+          52.5206683
         ]
       },
       "properties": {
@@ -2879,8 +2879,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.4001371,
-          52.5311429
+          13.4027772,
+          52.5311608
         ]
       },
       "properties": {
@@ -2896,15 +2896,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.4076572,
-          52.5264145
+          13.4078278,
+          52.5265091
         ]
       },
       "properties": {
         "name": "Dump Ling",
         "englishName": "Dump Ling",
         "category": "小吃",
-        "address": "Alte Schonhauser Str. 44, 10119 Berlin",
+        "address": "Alte Schönhauser Str. 44, 10119 Berlin",
         "district": "Mitte"
       }
     },
@@ -2913,12 +2913,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.3996611,
-          52.5240395
+          13.3996782,
+          52.5239906
         ]
       },
       "properties": {
-        "name": "TheNoodleTown (Mitte)",
+        "name": "The Noodle Town (Mitte)",
         "englishName": "The Noodle Town (Mitte)",
         "category": "面馆",
         "address": "Große Hamburger Str. 24, 10115 Berlin",
@@ -2930,15 +2930,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.4113525,
-          52.5529574
+          13.4139291,
+          52.5529498
         ]
       },
       "properties": {
         "name": "包饺会",
         "englishName": "Bao Gao Club (PBerg)",
         "category": "小吃",
-        "address": "Schonhauser Allee 103, 10439 Berlin",
+        "address": "Schönhauser Allee 103, 10439 Berlin",
         "district": "Prenzlauer Berg"
       }
     },
@@ -2947,15 +2947,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.4091035,
-          52.5293706
+          13.4095178,
+          52.529259
         ]
       },
       "properties": {
         "name": "马路边",
         "englishName": "Marubi",
         "category": "小吃",
-        "address": "Schonhauser Allee 187, 10119 Berlin",
+        "address": "Schönhauser Allee 187, 10119 Berlin",
         "district": "Prenzlauer Berg"
       }
     },
@@ -2964,15 +2964,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.4129429,
-          52.5480052
+          13.4130768,
+          52.5480263
         ]
       },
       "properties": {
         "name": "Yummy Dumpling",
         "englishName": "Yummy Dumpling",
         "category": "小吃",
-        "address": "Schonhauser Allee 122, 10437 Berlin",
+        "address": "Schönhauser Allee 122, 10437 Berlin",
         "district": "Prenzlauer Berg"
       }
     },
@@ -2981,15 +2981,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.4107692,
-          52.5459935
+          13.4134258,
+          52.5462139
         ]
       },
       "properties": {
         "name": "Wen Cheng (PBerg 1)",
         "englishName": "Wen Cheng (PBerg 1)",
         "category": "面馆",
-        "address": "Schonhauser Allee 65, 10437 Berlin",
+        "address": "Schönhauser Allee 65, 10437 Berlin",
         "district": "Prenzlauer Berg"
       }
     },
@@ -2998,15 +2998,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.4072444,
-          52.5307208
+          13.4115551,
+          52.5303329
         ]
       },
       "properties": {
         "name": "Wen Cheng (Pberg 2)",
         "englishName": "Wen Cheng (Pberg 2)",
         "category": "面馆",
-        "address": "SchonhauserAllee 10, 10119 Berlin",
+        "address": "Schönhauser Allee 10, 10119 Berlin",
         "district": "Prenzlauer Berg"
       }
     },
@@ -3015,8 +3015,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.4323516,
-          52.5231221
+          13.4348443,
+          52.5231148
         ]
       },
       "properties": {
@@ -3032,15 +3032,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.4657899,
-          52.5145308
+          13.4687928,
+          52.5151612
         ]
       },
       "properties": {
         "name": "如意轩火锅",
         "englishName": "Ruyixuan Hotpot",
         "category": "火锅",
-        "address": "Plaza,Frankfurter Allee 73C, 10247 Berlin",
+        "address": "Frankfurter Allee 73C, 10247 Berlin",
         "district": "Friedrichshain"
       }
     },
@@ -3049,15 +3049,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.4287701,
-          52.5021226
+          13.431339,
+          52.5019958
         ]
       },
       "properties": {
         "name": "包餃會",
         "englishName": "Bao Gao Club (Xberg)",
         "category": "小吃",
-        "address": "Markthalle Neun, Eisenbahnstr. 42-43, 10997 Berlin",
+        "address": "Eisenbahnstr. 42-43, 10997 Berlin",
         "district": "Kreuzberg"
       }
     },
@@ -3066,8 +3066,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.421283,
-          52.4936906
+          13.4218581,
+          52.4938329
         ]
       },
       "properties": {
@@ -3083,8 +3083,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.2150124,
-          52.5369418
+          13.2162095,
+          52.537777
         ]
       },
       "properties": {
@@ -3100,8 +3100,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.1579183,
-          52.5334137
+          13.1581957,
+          52.5333397
         ]
       },
       "properties": {
@@ -3117,8 +3117,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.1702407,
-          52.549774
+          13.1706083,
+          52.5498369
         ]
       },
       "properties": {
@@ -3134,8 +3134,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.1976768,
-          52.5428723
+          13.1978458,
+          52.5428833
         ]
       },
       "properties": {
@@ -3151,15 +3151,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.3701025,
-          52.5097877
+          13.3725831,
+          52.5097141
         ]
       },
       "properties": {
         "name": "煎饼堂",
         "englishName": "Jian Bing Town @ Kerb Berlin",
         "category": "小吃",
-        "address": "KerbFoodHall, Potsdamer Str. 4, 10785 Berlin",
+        "address": "Potsdamer Str. 4, 10785 Berlin",
         "district": "Tiergarten"
       }
     },
@@ -3168,15 +3168,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.3708496,
-          52.5075884
+          13.3741147,
+          52.5074122
         ]
       },
       "properties": {
         "name": "Mao Zeit柏林冒菜",
         "englishName": "Mao Zeit",
         "category": "麻辣烫/冒菜",
-        "address": "EG, Manefesto, Alte Potsdamer Str. 7, 10785 Berlin",
+        "address": "Alte Potsdamer Str. 7, 10785 Berlin",
         "district": "Tiergarten"
       }
     },
@@ -3185,15 +3185,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.3251011,
-          52.4654831
+          13.3276653,
+          52.4654624
         ]
       },
       "properties": {
         "name": "Biang Biang Ming (Friedenau)",
         "englishName": "Biang Biang Ming (Friedenau)",
         "category": "面馆",
-        "address": "Schloßstraße Center, Walther-Schreiber-Platz 1, 12161 Berlin",
+        "address": "Walther-Schreiber-Platz 1, 12161 Berlin",
         "district": "Friedenau"
       }
     },
@@ -3202,15 +3202,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.3387362,
-          52.5279588
+          13.3386209,
+          52.5278334
         ]
       },
       "properties": {
         "name": "JuJu's Dumplings",
         "englishName": "JuJu's Dumplings",
         "category": "小吃",
-        "address": "Arminiusmarkethalle, Arminiusstr. 2-4, 10551 Berlin",
+        "address": "Arminiusmarkthalle, Arminiusstr. 2-4, 10551 Berlin",
         "district": "Moabit"
       }
     },
@@ -3219,15 +3219,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.459208,
-          52.4322037
+          13.4615989,
+          52.4322129
         ]
       },
       "properties": {
         "name": "Happy Panda",
         "englishName": "Happy Panda",
         "category": "饭店",
-        "address": "Johannisthaler Ch 261, 12351 Berlin",
+        "address": "Johannisthaler Ch. 261, 12351 Berlin",
         "district": "Rudow"
       }
     },
@@ -3236,8 +3236,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.2784301,
-          52.5882872
+          13.2785483,
+          52.5882734
         ]
       },
       "properties": {
@@ -3253,8 +3253,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.2798521,
-          52.4773947
+          13.2823669,
+          52.4773675
         ]
       },
       "properties": {
@@ -3270,8 +3270,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.4267691,
-          52.4431413
+          13.4268013,
+          52.4431244
         ]
       },
       "properties": {
@@ -3287,15 +3287,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.3633921,
-          52.4136579
+          13.3718056,
+          52.4242805
         ]
       },
       "properties": {
         "name": "佛笑楼",
         "englishName": "Happy Buddha",
         "category": "饭店",
-        "address": "Marienfelder Allee 145, 12279 Berlin",
+        "address": "Marienfelder Allee 14, 512279 Berlin",
         "district": "Marienfelde"
       }
     },
@@ -3304,8 +3304,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.3892337,
-          52.4361117
+          13.3893692,
+          52.4361418
         ]
       },
       "properties": {
@@ -3321,8 +3321,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.5454679,
-          52.5426418
+          13.5497556,
+          52.5432758
         ]
       },
       "properties": {
@@ -3338,8 +3338,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.6018082,
-          52.5415363
+          13.6068282,
+          52.5416071
         ]
       },
       "properties": {
@@ -3355,8 +3355,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.3809619,
-          52.456393
+          13.383603,
+          52.4563698
         ]
       },
       "properties": {
@@ -3372,8 +3372,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.395418,
-          52.4154653
+          13.4003474,
+          52.415203
         ]
       },
       "properties": {
