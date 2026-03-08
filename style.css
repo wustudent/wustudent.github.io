@@ -1,0 +1,95 @@
+body {
+    margin: 0;
+    font-family: system-ui;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+#container {
+    display: flex;
+    flex-grow: 1;
+}
+
+#sidebar {
+    width: 320px;
+    overflow: auto;
+    border-right: 1px solid #ddd;
+    padding: 10px;
+    background: white;
+}
+
+#map {
+    flex: 1;
+}
+
+.restaurant {
+    padding: 8px;
+    border-bottom: 1px solid #eee;
+    cursor: pointer;
+}
+
+.restaurant:hover {
+    background: #f5f5f5;
+}
+
+.marker-cluster-small {
+    background-color: rgba(200, 0, 0, 0.6);
+}
+
+.marker-cluster-medium {
+    background-color: rgba(180, 0, 0, 0.6);
+}
+
+.marker-cluster-large {
+    background-color: rgba(160, 0, 0, 0.6);
+}
+
+.popup-btn {
+    background: #e53935;
+    color: white;
+    border: none;
+    padding: 6px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.popup-btn:hover {
+    background: #c62828;
+}
+
+.cluster-wrapper {
+    background: transparent;
+}
+
+.cluster-circle {
+    background: #e58735;
+    color: white;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 40px;
+    font-weight: bold;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+}
+
+#locate-btn {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    z-index: 1000;
+    background: white;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 1rem;
+    padding: 10px 8px;
+    cursor: pointer;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+    font-size: 2em;
+    line-height: 1;
+}
+
+#locate-btn:disabled {
+    opacity: 0.6;
+    cursor: default;
+}

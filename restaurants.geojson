@@ -1,0 +1,2759 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3385657,
+          52.5039078
+        ]
+      },
+      "properties": {
+        "name": "大明酒家",
+        "englishName": "Ming Dynastie (West)",
+        "category": "饭店",
+        "address": "Tauentzienstr. 9-12, 10789 Berlin",
+        "district": "Charlottenburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3359671,
+          52.5002756
+        ]
+      },
+      "properties": {
+        "name": "优米",
+        "englishName": "You Mi",
+        "category": "饭店",
+        "address": "NurnbergerStr. 28, 10789 Berlin",
+        "district": "Charlottenburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3192386,
+          52.5052737
+        ]
+      },
+      "properties": {
+        "name": "零零八六",
+        "englishName": "0086",
+        "category": "饭店",
+        "address": "Bleibtreustr. 7, 10623 Berlin",
+        "district": "Charlottenburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3155769,
+          52.5063437
+        ]
+      },
+      "properties": {
+        "name": "财神饭店",
+        "englishName": "Aroma",
+        "category": "饭店",
+        "address": "Kantstr. 35, 10625 Berlin",
+        "district": "Charlottenburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3181237,
+          52.5062688
+        ]
+      },
+      "properties": {
+        "name": "老友记",
+        "englishName": "Good Friends",
+        "category": "饭店",
+        "address": "Kantstr. 30, 10623 Berlin",
+        "district": "Charlottenburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3054159,
+          52.517248
+        ]
+      },
+      "properties": {
+        "name": "好利私房菜",
+        "englishName": "Holly",
+        "category": "饭店",
+        "address": "Schustehrusstr. 3, 10585 Berlin",
+        "district": "Charlottenburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3100409,
+          52.5063428
+        ]
+      },
+      "properties": {
+        "name": "多得利",
+        "englishName": "Do De Li",
+        "category": "饭店",
+        "address": "Kantstr. 120, 10625 Berlin",
+        "district": "Charlottenburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3223994,
+          52.5077772
+        ]
+      },
+      "properties": {
+        "name": "璐",
+        "englishName": "Lulu's",
+        "category": "饭店",
+        "address": "Knesebeckstr. 18-19, 10623 Berlin",
+        "district": "Charlottenburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.321091,
+          52.5060354
+        ]
+      },
+      "properties": {
+        "name": "绿食膳",
+        "englishName": "Green Flavor",
+        "category": "饭店",
+        "address": "Kantstr. 22, 10623 Berlin",
+        "district": "Charlottenburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.32812,
+          52.5027787
+        ]
+      },
+      "properties": {
+        "name": "恩李菜",
+        "englishName": "En Lee Cai",
+        "category": "饭店",
+        "address": "Kurfurstendamm 218, 10719 Berlin",
+        "district": "Charlottenburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.307671,
+          52.5023267
+        ]
+      },
+      "properties": {
+        "name": "德记",
+        "englishName": "Tak Kee",
+        "category": "小吃",
+        "address": "WilmersdorferStr. 79, 10629 Berlin",
+        "district": "Charlottenburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3044918,
+          52.515736
+        ]
+      },
+      "properties": {
+        "name": "红豆中餐馆",
+        "englishName": "Rotbohnen (Charlottenburg)",
+        "category": "小吃",
+        "address": "WilmersdorferStr. 17, 10585 Berlin",
+        "district": "Charlottenburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3308958,
+          52.503445
+        ]
+      },
+      "properties": {
+        "name": "WenCheng (Charlottenburg)",
+        "englishName": "Wen Cheng (Charlottenburg)",
+        "category": "面馆",
+        "address": "Joachimsthaler Str. 10, 10719 Berlin",
+        "district": "Charlottenburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3071026,
+          52.5068253
+        ]
+      },
+      "properties": {
+        "name": "兰州拉面",
+        "englishName": "Lanzhou Beef Noodles (Charlottenburg)",
+        "category": "面馆",
+        "address": "Kantstr. 56, 10627 Berlin",
+        "district": "Charlottenburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3046684,
+          52.5139572
+        ]
+      },
+      "properties": {
+        "name": "桃园面馆",
+        "englishName": "Tao Yuan Noodlehouse",
+        "category": "面馆",
+        "address": "Wilmersdorfer Str. 26, 10585 Berlin",
+        "district": "Charlottenburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3145796,
+          52.5129503
+        ]
+      },
+      "properties": {
+        "name": "Rong'sNoodlehouse",
+        "englishName": "Rong's Noodlehouse",
+        "category": "面馆",
+        "address": "Leibnizstr. 101, 10625 Berlin",
+        "district": "Charlottenburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.308974,
+          52.5063587
+        ]
+      },
+      "properties": {
+        "name": "玉面阁",
+        "englishName": "Jade Palast (Charlottenburg)",
+        "category": "面馆",
+        "address": "Kantstr. 117A, 10627 Berlin",
+        "district": "Charlottenburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3166806,
+          52.5065118
+        ]
+      },
+      "properties": {
+        "name": "龙门牛肉面大王",
+        "englishName": "Lon Men's Noodle House",
+        "category": "面馆",
+        "address": "Kantstr. 33, 10625 Berlin",
+        "district": "Charlottenburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3043306,
+          52.5070857
+        ]
+      },
+      "properties": {
+        "name": "伴面",
+        "englishName": "Ban Noodle",
+        "category": "面馆",
+        "address": "Kantstr. 62, 10627 Berlin",
+        "district": "Charlottenburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3007054,
+          52.5057531
+        ]
+      },
+      "properties": {
+        "name": "Little Little Restaurant",
+        "englishName": "Little Little Restaurant",
+        "category": "面馆",
+        "address": "StuttgarterPl. 16, 10627 Berlin",
+        "district": "Charlottenburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3100409,
+          52.5063428
+        ]
+      },
+      "properties": {
+        "name": "HanBitesKTV",
+        "englishName": "Han Bites KTV",
+        "category": "串烧",
+        "address": "Kantstr. 120, 10625 Berlin",
+        "district": "Charlottenburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3071026,
+          52.5068253
+        ]
+      },
+      "properties": {
+        "name": "YouMi串烧",
+        "englishName": "You Mi",
+        "category": "串烧",
+        "address": "Kantstr. 56, 10627 Berlin",
+        "district": "Charlottenburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3100697,
+          52.5066733
+        ]
+      },
+      "properties": {
+        "name": "帽牌冒菜",
+        "englishName": "Mao Master",
+        "category": "麻辣烫/冒菜",
+        "address": "Kantstr. 50, 10625 Berlin",
+        "district": "Charlottenburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3044707,
+          52.5159318
+        ]
+      },
+      "properties": {
+        "name": "大碗麻辣烫",
+        "englishName": "Mala House",
+        "category": "麻辣烫/冒菜",
+        "address": "Wilmersdorfer Str. 15, 10585 Berlin",
+        "district": "Charlottenburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3292458,
+          52.5016324
+        ]
+      },
+      "properties": {
+        "name": "小龙坎",
+        "englishName": "ShooLoongKan Hotpot",
+        "category": "火锅",
+        "address": "Meinekestr. 22, 10719 Berlin",
+        "district": "Charlottenburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3121352,
+          52.5121973
+        ]
+      },
+      "properties": {
+        "name": "您好饭店",
+        "englishName": "Ni Hao",
+        "category": "火锅",
+        "address": "Bismarckstr. 24, 10625 Berlin",
+        "district": "Charlottenburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4179541,
+          52.5131268
+        ]
+      },
+      "properties": {
+        "name": "大明酒家",
+        "englishName": "Ming Dynastie (Jannowitzbrucke)",
+        "category": "饭店",
+        "address": "Bruckenstr. 6, 10179 Berlin",
+        "district": "Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3926767,
+          52.5284483
+        ]
+      },
+      "properties": {
+        "name": "川园",
+        "englishName": "Chuan Garden",
+        "category": "饭店",
+        "address": "Torstr. 189, 10115 Berlin",
+        "district": "Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3974598,
+          52.5105336
+        ]
+      },
+      "properties": {
+        "name": "中国城大酒楼",
+        "englishName": "China City",
+        "category": "饭店",
+        "address": "Leipziger Str. 46, 10117 Berlin",
+        "district": "Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4003145,
+          52.5228088
+        ]
+      },
+      "properties": {
+        "name": "倪记",
+        "englishName": "Ni's Restaurant",
+        "category": "饭店",
+        "address": "Kleine Prasidentenstr. 3, 10178 Berlin",
+        "district": "Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4019417,
+          52.5090437
+        ]
+      },
+      "properties": {
+        "name": "太子",
+        "englishName": "Prince",
+        "category": "饭店",
+        "address": "Kommandantenstr. 75, 10117 Berlin",
+        "district": "Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3827152,
+          52.5114571
+        ]
+      },
+      "properties": {
+        "name": "太和饭殿",
+        "englishName": "Peking Ente",
+        "category": "饭店",
+        "address": "Voßstr. 1, 10117 Berlin",
+        "district": "Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3871193,
+          52.5254711
+        ]
+      },
+      "properties": {
+        "name": "全家福",
+        "englishName": "Lucky Star",
+        "category": "饭店",
+        "address": "Friedrichstr. 127, 10117 Berlin",
+        "district": "Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4131092,
+          52.5277043
+        ]
+      },
+      "properties": {
+        "name": "米吧",
+        "englishName": "MIBAP",
+        "category": "小吃",
+        "address": "Torstr. 22, 10119 Berlin",
+        "district": "Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3920711,
+          52.528315
+        ]
+      },
+      "properties": {
+        "name": "Toca Rouge",
+        "englishName": "Toca Rouge",
+        "category": "小吃",
+        "address": "Torstr. 195, 10115 Berlin",
+        "district": "Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4116763,
+          52.5124865
+        ]
+      },
+      "properties": {
+        "name": "初伍",
+        "englishName": "CHUWOO",
+        "category": "小吃",
+        "address": "Inselstr. 8a, 10179 Berlin",
+        "district": "Mite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3874544,
+          52.5112178
+        ]
+      },
+      "properties": {
+        "name": "Liu成都味道面馆",
+        "englishName": "Liu Nudelhaus",
+        "category": "面馆",
+        "address": "Kronenstr. 72, 10117 Berlin",
+        "district": "Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.398157,
+          52.533803
+        ]
+      },
+      "properties": {
+        "name": "The Tree Noodle House",
+        "englishName": "The Tree Noodle House",
+        "category": "面馆",
+        "address": "Brunnenstr. 167, 10119 Berlin",
+        "district": "Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3973941,
+          52.5323713
+        ]
+      },
+      "properties": {
+        "name": "喜面",
+        "englishName": "Xi Mian Hand-Pulled Noodles (Mitte)",
+        "category": "面馆",
+        "address": "Invalidenstr. 159, 10115 Berlin",
+        "district": "Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3813749,
+          52.5136262
+        ]
+      },
+      "properties": {
+        "name": "宾临城下",
+        "englishName": "Noodle Plus",
+        "category": "面馆",
+        "address": "Hannah-Arendt-str. 1, 10117 Berlin",
+        "district": "Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4021977,
+          52.5287282
+        ]
+      },
+      "properties": {
+        "name": "Bang Bang Noodles (Mitte)",
+        "englishName": "Bang Bang Noodles (Mitte)",
+        "category": "面馆",
+        "address": "RosenthalerStr. 69, 10119 Berlin",
+        "district": "Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3870089,
+          52.5264435
+        ]
+      },
+      "properties": {
+        "name": "三顾冒菜",
+        "englishName": "Sanku Maots'ai (Mitte)",
+        "category": "麻辣烫/冒菜",
+        "address": "Friedrichstr. 121, 10117 Berlin",
+        "district": "Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4023981,
+          52.5307573
+        ]
+      },
+      "properties": {
+        "name": "杨国福",
+        "englishName": "Yangguofu (Mitte)",
+        "category": "麻辣烫/冒菜",
+        "address": "Weinbergsweg 5, 10119 Berlin",
+        "district": "Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4273602,
+          52.5460665
+        ]
+      },
+      "properties": {
+        "name": "老乡",
+        "englishName": "Lao Xiang",
+        "category": "饭店",
+        "address": "Wichertstr, 43, 10439 Berlin",
+        "district": "Prenzlauer Berg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4111965,
+          52.5473373
+        ]
+      },
+      "properties": {
+        "name": "姗姗小屋",
+        "englishName": "Shanshan",
+        "category": "饭店",
+        "address": "Gleimstr. 24, 10437 Berlin",
+        "district": "Prenzlauer Berg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4063041,
+          52.5402877
+        ]
+      },
+      "properties": {
+        "name": "味道佳",
+        "englishName": "Wei Dao Jia",
+        "category": "饭店",
+        "address": "Oderberger Str. 27, 10435 Berlin",
+        "district": "Prenzlauer Berg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4183144,
+          52.5509382
+        ]
+      },
+      "properties": {
+        "name": "五月花",
+        "englishName": "Mayflower",
+        "category": "饭店",
+        "address": "Greifenhagener Str. 27, 10437 Berlin",
+        "district": "Prenzlauer Berg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4191755,
+          52.5519154
+        ]
+      },
+      "properties": {
+        "name": "北方水饺",
+        "englishName": "Wok Show",
+        "category": "饭店",
+        "address": "Greifenhagener Str. 31, 10437 Berlin",
+        "district": "Prenzlauer Berg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4389385,
+          52.5480965
+        ]
+      },
+      "properties": {
+        "name": "东海楼",
+        "englishName": "Donghailou Restaurant",
+        "category": "饭店",
+        "address": "Ostseestr. 79, 10409 Berlin",
+        "district": "Prenzlauer Berg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4425543,
+          52.5434771
+        ]
+      },
+      "properties": {
+        "name": "凤凰酒楼",
+        "englishName": "Phönix Buffet",
+        "category": "饭店",
+        "address": "Greifswalderstr. 90, 10409 Berlin",
+        "district": "Prenzlauer Berg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4119349,
+          52.5474186
+        ]
+      },
+      "properties": {
+        "name": "一点茶寮",
+        "englishName": "Dot Tea Bar",
+        "category": "小吃",
+        "address": "Gleimstr. 27, 10437 Berlin",
+        "district": "Prenzlauer Berg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4101,
+          52.5310535
+        ]
+      },
+      "properties": {
+        "name": "海椒",
+        "englishName": "Hi! Chili",
+        "category": "小吃",
+        "address": "Fehrbelliner Str. 5, 10119 Berlin",
+        "district": "Prenzlauer Berg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4203296,
+          52.5441402
+        ]
+      },
+      "properties": {
+        "name": "Lecker Song",
+        "englishName": "Lecker Song",
+        "category": "小吃",
+        "address": "Schliemannstr. 19, 10437 Berlin",
+        "district": "Prenzlauer Berg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4199788,
+          52.5441257
+        ]
+      },
+      "properties": {
+        "name": "功夫辣椒",
+        "englishName": "Kongfu Chili",
+        "category": "面馆",
+        "address": "Schliemannstr. 31, 10437 Berlin",
+        "district": "Prenzlauer Berg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.420964,
+          52.5329463
+        ]
+      },
+      "properties": {
+        "name": "空",
+        "englishName": "Kong Chinese Noodle Restaurant",
+        "category": "面馆",
+        "address": "Prenzlauer Allee 27A, 10405 Berlin",
+        "district": "Prenzlauer Berg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4140012,
+          52.5406523
+        ]
+      },
+      "properties": {
+        "name": "喜面",
+        "englishName": "Xi Mian Hand-Pulled Noodles (PBerg)",
+        "category": "面馆",
+        "address": "Danziger Str. 10, 10435 Berlin",
+        "district": "Prenzlauer Berg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4105468,
+          52.5413244
+        ]
+      },
+      "properties": {
+        "name": "素素",
+        "englishName": "Susu Vegan Food",
+        "category": "素食",
+        "address": "Eberswalder Str. 29, 10437 Berlin",
+        "district": "Prenzlauer Berg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.401672,
+          52.533001
+        ]
+      },
+      "properties": {
+        "name": "The Butterfly Lovers",
+        "englishName": "The Butterfly Lovers",
+        "category": "素食",
+        "address": "Veteranenstr. 10, 10119 Berlin",
+        "district": "Prenzlauer Berg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4574298,
+          52.5097313
+        ]
+      },
+      "properties": {
+        "name": "玉面阁",
+        "englishName": "Jade Palast",
+        "category": "饭店",
+        "address": "Wühlischstr. 30, 10245 Berlin",
+        "district": "Friedrichshain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.428828,
+          52.517794
+        ]
+      },
+      "properties": {
+        "name": "华亭酒家",
+        "englishName": "Hua Ting",
+        "category": "饭店",
+        "address": "StrausbergerPl. 13, 10243 Berlin",
+        "district": "Friedrichshain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4712037,
+          52.5137829
+        ]
+      },
+      "properties": {
+        "name": "上海饭店",
+        "englishName": "Shanghai",
+        "category": "饭店",
+        "address": "Frankfurter Allee 90, 10247 Berlin",
+        "district": "Friedrichshain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4675199,
+          52.5075241
+        ]
+      },
+      "properties": {
+        "name": "红豆中餐馆",
+        "englishName": "Rotbohnen (Fhain)",
+        "category": "小吃",
+        "address": "Boxhagener Str. 55, 10245 Berlin",
+        "district": "Friedrichshain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4558694,
+          52.5087906
+        ]
+      },
+      "properties": {
+        "name": "Lu Kitchen (Fhain)",
+        "englishName": "Lu Kitchen (Fhain)",
+        "category": "小吃",
+        "address": "Simon-Dach-str. 30, 10245 Berlin",
+        "district": "Friedrichshain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4710918,
+          52.5146347
+        ]
+      },
+      "properties": {
+        "name": "茶点屋",
+        "englishName": "Teegeback-Haus",
+        "category": "小吃",
+        "address": "Waldeyerstr. 12, 10247 Berlin",
+        "district": "Friedrichshain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4338503,
+          52.5119357
+        ]
+      },
+      "properties": {
+        "name": "熊猫师傅",
+        "englishName": "Panda Meister",
+        "category": "小吃",
+        "address": "Hermann-Stohr-Platz 9-11, 10243 Berlin",
+        "district": "Friedrichshain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4659424,
+          52.5184477
+        ]
+      },
+      "properties": {
+        "name": "山西面馆",
+        "englishName": "Shanxi Nudelhaus",
+        "category": "面馆",
+        "address": "Samariterstr. 28, 10247 Berlin",
+        "district": "Friedrichshain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4590749,
+          52.5144407
+        ]
+      },
+      "properties": {
+        "name": "陈香贵",
+        "englishName": "Mr.Noodle Chen (Fhain)",
+        "category": "面馆",
+        "address": "Niederbarnimstr. 4, 10247 Berlin",
+        "district": "Friedrichshain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4576377,
+          52.5107836
+        ]
+      },
+      "properties": {
+        "name": "兰州拉面",
+        "englishName": "Lanzhou Beef Noodles",
+        "category": "面馆",
+        "address": "KrossenerStr. 12, 10245 Berlin",
+        "district": "Friedrichshain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4576435,
+          52.5133845
+        ]
+      },
+      "properties": {
+        "name": "傻妞面馆",
+        "englishName": "Shaniu's House of Noodles (Fhain)",
+        "category": "面馆",
+        "address": "Niederbarnimstr. 12, 10247 Berlin",
+        "district": "Friedrichshain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4591284,
+          52.5126623
+        ]
+      },
+      "properties": {
+        "name": "见一面",
+        "englishName": "Meet Noodles",
+        "category": "面馆",
+        "address": "Boxhagener Str. 104, 10245 Berlin",
+        "district": "Friedrichshain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4552056,
+          52.5084046
+        ]
+      },
+      "properties": {
+        "name": "Wen Cheng (Fhain)",
+        "englishName": "Wen Cheng (Fhain)",
+        "category": "面馆",
+        "address": "Simon-Dach-str. 22, 10245 Berlin",
+        "district": "Friedrichshain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4664944,
+          52.5082687
+        ]
+      },
+      "properties": {
+        "name": "麦",
+        "englishName": "May Noodles",
+        "category": "面馆",
+        "address": "Boxhagener Str. 50, 10245 Berlin",
+        "district": "Friedrichshain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4536171,
+          52.5138835
+        ]
+      },
+      "properties": {
+        "name": "三顾冒菜",
+        "englishName": "Sanku Maot'sai (Fhain)",
+        "category": "麻辣烫/冒菜",
+        "address": "WarschauerStr. 81a, 10241 Berlin",
+        "district": "Friedrichshain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4574607,
+          52.5071676
+        ]
+      },
+      "properties": {
+        "name": "大清面馆",
+        "englishName": "Hotpot & Nudeln",
+        "category": "麻辣烫/冒菜",
+        "address": "RevalerStr. 17, 10245 Berlin",
+        "district": "Friedrichshain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4656222,
+          52.5092826
+        ]
+      },
+      "properties": {
+        "name": "莲花阁素食",
+        "englishName": "Kamala Vegan",
+        "category": "素食",
+        "address": "Boxhagener Str. 85, 10245 Berlin",
+        "district": "Friedrichshain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4309782,
+          52.502969
+        ]
+      },
+      "properties": {
+        "name": "长征餐厅",
+        "englishName": "Long March Canteen",
+        "category": "饭店",
+        "address": "Wrangelstr. 20, 10997 Berlin",
+        "district": "Kreuzberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4203413,
+          52.4964833
+        ]
+      },
+      "properties": {
+        "name": "蜀味坊",
+        "englishName": "Shu Wei Fang - SzechuanHouse",
+        "category": "饭店",
+        "address": "Paul-Lincke-Ufer 45, 10999 Berlin",
+        "district": "Kreuzberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4164143,
+          52.4924846
+        ]
+      },
+      "properties": {
+        "name": "唐记",
+        "englishName": "Tangs Kantine",
+        "category": "饭店",
+        "address": "Dieffenbachstr. 18, 10967 Berlin",
+        "district": "Kreuzberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3970187,
+          52.5048782
+        ]
+      },
+      "properties": {
+        "name": "中华饭店",
+        "englishName": "Zhong Hua",
+        "category": "饭店",
+        "address": "Lindenstr. 29A, 10969 Berlin",
+        "district": "Kreuzberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4321298,
+          52.5017599
+        ]
+      },
+      "properties": {
+        "name": "年三十饺子",
+        "englishName": "Dumplings Nian",
+        "category": "小吃",
+        "address": "Eisenbahnstr. 4, 10997 Berlin",
+        "district": "Kreuzberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4432839,
+          52.5011458
+        ]
+      },
+      "properties": {
+        "name": "一家小院",
+        "englishName": "Yijan",
+        "category": "小吃",
+        "address": "Oberbaumstr. 5, 10997 Berlin",
+        "district": "Kreuzberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.394652,
+          52.4868713
+        ]
+      },
+      "properties": {
+        "name": "Cha for Tee",
+        "englishName": "Cha for Tee",
+        "category": "小吃",
+        "address": "Friesenstr. 18, 10965 Berlin",
+        "district": "Kreuzberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4189483,
+          52.5005116
+        ]
+      },
+      "properties": {
+        "name": "陈记牛肉面馆",
+        "englishName": "Chen's Noodle House (Xberg)",
+        "category": "面馆",
+        "address": "Adalbertstr. 7, 10999 Berlin",
+        "district": "Kreuzberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4232581,
+          52.4972686
+        ]
+      },
+      "properties": {
+        "name": "Chungking Noodles",
+        "englishName": "Chungking Noodles",
+        "category": "面馆",
+        "address": "Reichenberger Str. 35, 10999 Berlin",
+        "district": "Kreuzberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4316113,
+          52.4986531
+        ]
+      },
+      "properties": {
+        "name": "Wen Cheng (Xberg)",
+        "englishName": "Wen Cheng (Xberg)",
+        "category": "面馆",
+        "address": "Spreewaldpl. 5, 10999 Berlin",
+        "district": "Kreuzberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.387538,
+          52.4916312
+        ]
+      },
+      "properties": {
+        "name": "Bang Bang Noodles (Xberg)",
+        "englishName": "Bang Bang Noodles (Xberg)",
+        "category": "面馆",
+        "address": "Mehringdamm 51, 10961 Berlin",
+        "district": "Kreuzberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4351986,
+          52.4937149
+        ]
+      },
+      "properties": {
+        "name": "遇见易拉面馆",
+        "englishName": "Yila Nudel",
+        "category": "面馆",
+        "address": "Liegnitzer Str. 30, 10999 Berlin",
+        "district": "Kreuzberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3948825,
+          52.4911319
+        ]
+      },
+      "properties": {
+        "name": "N Noodles &Tea",
+        "englishName": "N Noodles &Tea",
+        "category": "面馆",
+        "address": "Gneisenaustr. 24, 10961 Berlin",
+        "district": "Kreuzberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3888764,
+          52.4895356
+        ]
+      },
+      "properties": {
+        "name": "The Noodle Town (Xberg)",
+        "englishName": "The Noodle Town (Xberg)",
+        "category": "面馆",
+        "address": "Bergmannstr. 5, 10965 Berlin",
+        "district": "Kreuzberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3900111,
+          52.5054395
+        ]
+      },
+      "properties": {
+        "name": "张亮麻辣烫",
+        "englishName": "Zhangliangminihotpot",
+        "category": "麻辣烫/冒菜",
+        "address": "Friedrichstr. 217, 10969 Berlin",
+        "district": "Kreuzberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3265981,
+          52.4979319
+        ]
+      },
+      "properties": {
+        "name": "宴遇",
+        "englishName": "Meet You",
+        "category": "饭店",
+        "address": "Fasanenstr. 41, 10719 Berlin",
+        "district": "Wilmersdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3276609,
+          52.4978784
+        ]
+      },
+      "properties": {
+        "name": "王家一号",
+        "englishName": "Feast",
+        "category": "饭店",
+        "address": "Meierottostr. 1, 10719 Berlin",
+        "district": "Wilmersdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3240588,
+          52.4949548
+        ]
+      },
+      "properties": {
+        "name": "天府酒家",
+        "englishName": "Tianfu",
+        "category": "饭店",
+        "address": "Uhlandstr. 142, 10719 Berlin",
+        "district": "Wilmersdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.330572,
+          52.4858713
+        ]
+      },
+      "properties": {
+        "name": "Mr. Liu",
+        "englishName": "Mr. Liu",
+        "category": "饭店",
+        "address": "Bundesallee 45, 10715 Berlin",
+        "district": "Wilmersdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3289197,
+          52.4782682
+        ]
+      },
+      "properties": {
+        "name": "威玲",
+        "englishName": "Wiling",
+        "category": "饭店",
+        "address": "Bundespl. 12, 10715 Berlin",
+        "district": "Wilmersdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3301547,
+          52.4783439
+        ]
+      },
+      "properties": {
+        "name": "恩典之家",
+        "englishName": "Wunderbau",
+        "category": "饭店",
+        "address": "Bernhardstr. 12, 10715 Berlin",
+        "district": "Wilmersdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3056796,
+          52.4992174
+        ]
+      },
+      "properties": {
+        "name": "聚友阁",
+        "englishName": "Hot Spot",
+        "category": "饭店",
+        "address": "Eisenzahnstr. 66, 10709 Berlin",
+        "district": "Wilmersdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3135486,
+          52.4969271
+        ]
+      },
+      "properties": {
+        "name": "Lychee",
+        "englishName": "Lychee",
+        "category": "饭店",
+        "address": "Bayerische Str. 9, 10707 Berlin",
+        "district": "Wilmersdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3366971,
+          52.4884172
+        ]
+      },
+      "properties": {
+        "name": "龙门",
+        "englishName": "Lon-Min",
+        "category": "饭店",
+        "address": "Bamberger Str. 30, 10779 Berlin",
+        "district": "Wilmersdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3245441,
+          52.4972154
+        ]
+      },
+      "properties": {
+        "name": "陈氏茶缘",
+        "englishName": "Chen's Teehaus",
+        "category": "小吃",
+        "address": "Uhlandstr. 150, 10719 Berlin",
+        "district": "Wilmersdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3279326,
+          52.4961228
+        ]
+      },
+      "properties": {
+        "name": "傻妞面馆",
+        "englishName": "Shaniu's HouseofNoodles (Wilmersdorf)",
+        "category": "面馆",
+        "address": "Pariser Str. 58, 10719 Berlin",
+        "district": "Wilmersdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3240588,
+          52.4949548
+        ]
+      },
+      "properties": {
+        "name": "想见面",
+        "englishName": "Noodle Point",
+        "category": "面馆",
+        "address": "Uhlandstr. 142, 10719 Berlin",
+        "district": "Wilmersdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3100384,
+          52.500016
+        ]
+      },
+      "properties": {
+        "name": "吼堂火锅",
+        "englishName": "Hou Tang Hotpot",
+        "category": "火锅",
+        "address": "Kurfurstendamm 175, 10707 Berlin",
+        "district": "Wilmersdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.304781,
+          52.4952282
+        ]
+      },
+      "properties": {
+        "name": "随园·听松",
+        "englishName": "Ting Song Hotpot",
+        "category": "火锅",
+        "address": "Eisenzahnstr. 14, 10709 Berlin",
+        "district": "Wilmersdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4315386,
+          52.4877026
+        ]
+      },
+      "properties": {
+        "name": "农夫乐",
+        "englishName": "Asia Farm house",
+        "category": "小吃",
+        "address": "Pannierstr. 54, 12047 Berlin",
+        "district": " Neukölln"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4200553,
+          52.4784488
+        ]
+      },
+      "properties": {
+        "name": "HanWest (Neukölln)",
+        "englishName": "HanWest (Neukölln)",
+        "category": "小吃",
+        "address": "SelchowerStr. 20, 12049 Berlin",
+        "district": " Neukölln"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.433958,
+          52.4815525
+        ]
+      },
+      "properties": {
+        "name": "陈记牛肉面馆 (Neukölln 1)",
+        "englishName": "Chen's Noodle House (Neukölln 1)",
+        "category": "面馆",
+        "address": "Karl-Marx-str. 78, 12043 Berlin",
+        "district": " Neukölln"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.437379,
+          52.4795713
+        ]
+      },
+      "properties": {
+        "name": "陈记牛肉面馆 (Neukölln 2)",
+        "englishName": "Chen's Noodle House (Neukölln 2)",
+        "category": "面馆",
+        "address": "Karl-Marx-str. 101, 12043 Berlin",
+        "district": " Neukölln"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4602867,
+          52.4777269
+        ]
+      },
+      "properties": {
+        "name": "南吉",
+        "englishName": "Gaststätte Südpol",
+        "category": "烧烤",
+        "address": "Dieselstr. 20, 12057 Berlin",
+        "district": " Neukölln"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1614738,
+          52.5233629
+        ]
+      },
+      "properties": {
+        "name": "长青酒楼",
+        "englishName": "Evergreen",
+        "category": "饭店",
+        "address": "Magistratsweg 31, 13593 Berlin",
+        "district": " Spandau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2072197,
+          52.5383362
+        ]
+      },
+      "properties": {
+        "name": "澳门酒楼",
+        "englishName": "Macao",
+        "category": "饭店",
+        "address": "BreiteStr. 37, 13597 Berlin",
+        "district": " Spandau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1473763,
+          52.4515702
+        ]
+      },
+      "properties": {
+        "name": "Regent",
+        "englishName": "Regent",
+        "category": "饭店",
+        "address": "Imchenallee 44, 14089 Berlin",
+        "district": " Spandau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3545852,
+          52.5421195
+        ]
+      },
+      "properties": {
+        "name": "UUU",
+        "englishName": "UUU",
+        "category": "饭店",
+        "address": "Sprengelstr. 15, 13353 Berlin",
+        "district": " Wedding"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3512456,
+          52.5496636
+        ]
+      },
+      "properties": {
+        "name": "蕾小厨湘菜馆",
+        "englishName": "Lei's Kuche",
+        "category": "饭店",
+        "address": "Seestr. 41, 13353 Berlin",
+        "district": " Wedding"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3489126,
+          52.5496318
+        ]
+      },
+      "properties": {
+        "name": "椒点私厨",
+        "englishName": "SzeChuan Kuche",
+        "category": "饭店",
+        "address": "Seestr. 101, 13353 Berlin",
+        "district": " Wedding"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3512456,
+          52.5496636
+        ]
+      },
+      "properties": {
+        "name": "美食家",
+        "englishName": "Asia Deli",
+        "category": "小吃",
+        "address": "Seestr. 41, 13353 Berlin",
+        "district": " Wedding"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3612815,
+          52.5420499
+        ]
+      },
+      "properties": {
+        "name": "Wen Cheng Burgsdorfer",
+        "englishName": "Wen Cheng Burgsdorfer",
+        "category": "小吃",
+        "address": "Burgsdorfstr. 7, 13353 Berlin",
+        "district": " Wedding"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3603957,
+          52.5440752
+        ]
+      },
+      "properties": {
+        "name": "陈香贵",
+        "englishName": "Mr. Noodle Chen(Wedding)",
+        "category": "面馆",
+        "address": "Willdenowstr. 12, 13353 Berlin",
+        "district": " Wedding"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3529653,
+          52.4899829
+        ]
+      },
+      "properties": {
+        "name": "吃吃看",
+        "englishName": "Chichikan",
+        "category": "饭店",
+        "address": "Goltzstr. 52, 10781 Berlin",
+        "district": " Schöneberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3418879,
+          52.4885941
+        ]
+      },
+      "properties": {
+        "name": "文记",
+        "englishName": "Mankee",
+        "category": "饭店",
+        "address": "Grunewaldstr. 60, 10825 Berlin",
+        "district": " Schöneberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.354937,
+          52.4868352
+        ]
+      },
+      "properties": {
+        "name": "Bingery",
+        "englishName": "Bingery",
+        "category": "小吃",
+        "address": "Akazienstr. 27, 10823 Berlin",
+        "district": " Schöneberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3400205,
+          52.4953057
+        ]
+      },
+      "properties": {
+        "name": "永记",
+        "englishName": "Goji",
+        "category": "小吃",
+        "address": "Motzstr. 58, 10777 Berlin",
+        "district": " Schöneberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3417692,
+          52.5008242
+        ]
+      },
+      "properties": {
+        "name": "7Dumpling",
+        "englishName": "7Dumpling",
+        "category": "小吃",
+        "address": "AnsbacherStr. 29, 10789 Berlin",
+        "district": " Schöneberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3404775,
+          52.4959209
+        ]
+      },
+      "properties": {
+        "name": "天府子",
+        "englishName": "Tianfuzius",
+        "category": "素食",
+        "address": "RegensburgerStr. 1, 10777 Berlin",
+        "district": " Schöneberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.333892,
+          52.4522392
+        ]
+      },
+      "properties": {
+        "name": "四川饭店",
+        "englishName": "Sichuan",
+        "category": "饭店",
+        "address": "Albrechtstr. 92, 12167 Berlin",
+        "district": " Steglitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3215021,
+          52.4505702
+        ]
+      },
+      "properties": {
+        "name": "福利来",
+        "englishName": "Fu Li Lai",
+        "category": "饭店",
+        "address": "Erlenstr. 19, 12167 Berlin",
+        "district": " Steglitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3246883,
+          52.4560347
+        ]
+      },
+      "properties": {
+        "name": "新景阳",
+        "englishName": "Jing Yang",
+        "category": "饭店",
+        "address": "Albrechtstr. 125, 12165 Berlin",
+        "district": " Steglitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3122763,
+          52.4600362
+        ]
+      },
+      "properties": {
+        "name": "喜临门",
+        "englishName": "Hee Lam Mun",
+        "category": "饭店",
+        "address": "Grunewaldstr. 23, 12165 Berlin",
+        "district": " Steglitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3220716,
+          52.4570665
+        ]
+      },
+      "properties": {
+        "name": "杨国福",
+        "englishName": "Yangguofu(Steglitz)",
+        "category": "麻辣烫/冒菜",
+        "address": "Albrechtstr. 131, 12165 Berlin",
+        "district": " Steglitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3464998,
+          52.5042285
+        ]
+      },
+      "properties": {
+        "name": "傻妞面馆",
+        "englishName": "Shaniu's Houseof Noodles(Tiergarten)",
+        "category": "面馆",
+        "address": "Kurfurstenstr. 79, 10787 Berlin",
+        "district": " Tiergarten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3296578,
+          52.4657624
+        ]
+      },
+      "properties": {
+        "name": "竹园酒楼",
+        "englishName": "Bambus",
+        "category": "饭店",
+        "address": "Rheinstr 43, 12161 Berlin",
+        "district": " Friedenau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3276587,
+          52.4664074
+        ]
+      },
+      "properties": {
+        "name": "佳家",
+        "englishName": "Jia Jia",
+        "category": "饭店",
+        "address": "Lefevrestr. 1, 12161 Berlin",
+        "district": " Friedenau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.342,
+          52.5253262
+        ]
+      },
+      "properties": {
+        "name": "新会城",
+        "englishName": "Xin Hui City",
+        "category": "小吃",
+        "address": "Alt-Moabit 86B, 10555 Berlin",
+        "district": " Moabit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3326428,
+          52.5236239
+        ]
+      },
+      "properties": {
+        "name": "熊猫师傅",
+        "englishName": "Panda Meister (Moabit)",
+        "category": "小吃",
+        "address": "Alt-Moabit 73A, 10555 Berlin",
+        "district": " Moabit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.324489,
+          52.4171906
+        ]
+      },
+      "properties": {
+        "name": "金色花园",
+        "englishName": "Golden Garden",
+        "category": "饭店",
+        "address": "HeinersdorferStr. 19A, 12209 Berlin",
+        "district": " Lichterfelde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3152407,
+          52.416193
+        ]
+      },
+      "properties": {
+        "name": "帝苑",
+        "englishName": "Royal Garden",
+        "category": "饭店",
+        "address": "OsdorferStr. 26, 12207 Berlin",
+        "district": " Lichterfelde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3051809,
+          52.4485225
+        ]
+      },
+      "properties": {
+        "name": "面之缘",
+        "englishName": "LaLa Noodle of Sichuan",
+        "category": "面馆",
+        "address": "Enzianstr. 2, 12203 Berlin",
+        "district": " Lichterfelde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4872342,
+          52.4217708
+        ]
+      },
+      "properties": {
+        "name": "云",
+        "englishName": "Wan-Loi",
+        "category": "饭店",
+        "address": "NeuköllnerStr. 302, 12357 Berlin",
+        "district": " Rudow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4746299,
+          52.432191
+        ]
+      },
+      "properties": {
+        "name": "熊猫酒楼",
+        "englishName": "Panda II",
+        "category": "饭店",
+        "address": "RudowerStr. 173, 12351 Berlin",
+        "district": " Rudow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2820416,
+          52.5897935
+        ]
+      },
+      "properties": {
+        "name": "新华",
+        "englishName": "Sun Wah",
+        "category": "饭店",
+        "address": "Alt-Tegel 4, 13507 Berlin",
+        "district": " Tegel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2267982,
+          52.5730102
+        ]
+      },
+      "properties": {
+        "name": "Pong's China Restaurant",
+        "englishName": "Pong's China Restaurant",
+        "category": "饭店",
+        "address": "Jorsstr. 14, 13505 Berlin",
+        "district": " Tegel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.308374,
+          52.4673154
+        ]
+      },
+      "properties": {
+        "name": "锅锅香",
+        "englishName": "Guoguoxiang",
+        "category": "饭店",
+        "address": "Breitenbachpl. 8, 14195 Berlin",
+        "district": " Dahlem"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2831459,
+          52.4590597
+        ]
+      },
+      "properties": {
+        "name": "Miss Wu",
+        "englishName": "Miss Wu",
+        "category": "饭店",
+        "address": "Konigin-Luise-str. 71, 14195 Berlin",
+        "district": " Dahlem"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2936273,
+          52.4746439
+        ]
+      },
+      "properties": {
+        "name": "帆船酒楼",
+        "englishName": "Dschunke",
+        "category": "饭店",
+        "address": "Breitestr. 15, 14199 Berlin",
+        "district": " Schmargendorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4764565,
+          52.514333
+        ]
+      },
+      "properties": {
+        "name": "大明见面",
+        "englishName": "MingTastic",
+        "category": "火锅",
+        "address": "Ring Center, Frankfurter Allee 113, 10365 Berlin",
+        "district": " Lichtenberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4734433,
+          52.5040732
+        ]
+      },
+      "properties": {
+        "name": "Zhou's Five",
+        "englishName": "Zhou's Five",
+        "category": "饭店",
+        "address": "Marktstr. 6, 10317 Berlin",
+        "district": " Lichtenberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3066273,
+          52.6182133
+        ]
+      },
+      "properties": {
+        "name": "熊猫园",
+        "englishName": "Panda Garden",
+        "category": "饭店",
+        "address": "Heinsestr. 42, 13467 Berlin",
+        "district": " Hermsdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2998131,
+          52.6147326
+        ]
+      },
+      "properties": {
+        "name": "China Garden",
+        "englishName": "China Garden",
+        "category": "饭店",
+        "address": "Hermsdorfer Damm 134, 13467 Berlin",
+        "district": " Hermsdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3620352,
+          52.5689172
+        ]
+      },
+      "properties": {
+        "name": "龙利阁",
+        "englishName": "Long Li House",
+        "category": "饭店",
+        "address": "Residenzstr. 130, 13409 Berlin",
+        "district": " Reinickendorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3247817,
+          52.5886238
+        ]
+      },
+      "properties": {
+        "name": "周家",
+        "englishName": "Zhou's Fine",
+        "category": "饭店",
+        "address": "Eichborndamm 215, 13437 Berlin",
+        "district": " Reinickendorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.403633,
+          52.580804
+        ]
+      },
+      "properties": {
+        "name": "华丽都",
+        "englishName": "Hua Li Du",
+        "category": "饭店",
+        "address": "Dietzgenstr. 11A, 13156 Berlin",
+        "district": " Pankow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4124566,
+          52.5596402
+        ]
+      },
+      "properties": {
+        "name": "China Town",
+        "englishName": "China Town",
+        "category": "小吃",
+        "address": "Muhlenstr. 46, 13187 Berlin",
+        "district": " Pankow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4547284,
+          52.4449235
+        ]
+      },
+      "properties": {
+        "name": "中国大酒楼",
+        "englishName": "Reuter",
+        "category": "饭店",
+        "address": "Buschkrugallee 226, 12359 Berlin",
+        "district": " Britz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3547205,
+          52.4126905
+        ]
+      },
+      "properties": {
+        "name": "大利",
+        "englishName": "Tai Lee",
+        "category": "饭店",
+        "address": "HildburghauserStr. 29, 12279 Berlin",
+        "district": " Marienfelde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3426792,
+          52.4400068
+        ]
+      },
+      "properties": {
+        "name": "旺角花园",
+        "englishName": "Hongkong Canteen",
+        "category": "饭店",
+        "address": "Leonorenstr.  60, 12247 Berlin",
+        "district": " Lankwitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3344393,
+          52.4304432
+        ]
+      },
+      "properties": {
+        "name": "丰源饭店",
+        "englishName": "Feng Yuan",
+        "category": "饭店",
+        "address": "Kaiser-Wilhelm-str. 8, 12247 Berlin",
+        "district": " Lankwitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2814631,
+          52.5097113
+        ]
+      },
+      "properties": {
+        "name": "宴火",
+        "englishName": "Yan Huo BBQ&Hotpot",
+        "category": "火锅",
+        "address": "Kaiserdamm 89, 14057 Berlin",
+        "district": " Westend"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4306594,
+          52.6127499
+        ]
+      },
+      "properties": {
+        "name": "福多酒家",
+        "englishName": "Fu Duo",
+        "category": "饭店",
+        "address": "Triftstr. 33, 13127 Berlin",
+        "district": " Franzosisch Buchholz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2924774,
+          52.4968375
+        ]
+      },
+      "properties": {
+        "name": "熊猫师傅",
+        "englishName": "PandaMeister(Halensee)",
+        "category": "小吃",
+        "address": "WestfalischeStr. 46, 10711 Berlin",
+        "district": " Halensee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3305922,
+          52.6009151
+        ]
+      },
+      "properties": {
+        "name": "好好酒楼",
+        "englishName": "HowHow",
+        "category": "饭店",
+        "address": "OranienburgerStr. 168, 13437 Berlin",
+        "district": " Wittnau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.501754,
+          52.4353788
+        ]
+      },
+      "properties": {
+        "name": "Kaiser Drachen",
+        "englishName": "Kaiser Drachen",
+        "category": "饭店",
+        "address": "Stubenrauchstr. 78, 12487 Berlin",
+        "district": " Johannisthal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5012689,
+          52.3926453
+        ]
+      },
+      "properties": {
+        "name": "京帝轩",
+        "englishName": "RoyalPavillon",
+        "category": "饭店",
+        "address": "Hans-Grade-Allee 18, 12529 Schönefeld",
+        "district": " Schönefeld"
+      }
+    }
+  ]
+}
