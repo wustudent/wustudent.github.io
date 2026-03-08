@@ -2754,6 +2754,635 @@
         "address": "Hans-Grade-Allee 18, 12529 Schönefeld",
         "district": " Schönefeld"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3138183,
+          52.5139812 
+        ]
+      },
+      "properties": {
+        "name": "土龙",
+        "englishName": "Tu-Long",
+        "category": "饭店",
+        "address": "Otto-Suhr-Allee 25, 10585 Berlin",
+        "district": "Charlottenburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3157687,
+          52.5132752
+        ]
+      },
+      "properties": {
+        "name": "老陈一品香",
+        "englishName": "Chen's Wok",
+        "category": "饭店",
+        "address": "Otto-Suhr-Allee 11-13, 10585 Berlin",
+        "district": "Charlottenburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2817493,
+          52.5066675
+        ]
+      },
+      "properties": {
+        "name": "新阳光",
+        "englishName": "Asia Restaurant Sonne",
+        "category": "饭店",
+        "address": "Neue Kantstraße 16, 14057 Berlin",
+        "district": "Charlottenburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2971282,
+          52.5120596
+        ]
+      },
+      "properties": {
+        "name": "Ming Jia",
+        "englishName": "Ming Jia",
+        "category": "饭店",
+        "address": "Schloßstr. 32, 14059 Berlin",
+        "district": "Charlottenburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.336767,
+          52.5056589
+        ]
+      },
+      "properties": {
+        "name": "Lu Kitchen (Bikini)",
+        "englishName": "Lu Kitchen (Bikini)",
+        "category": "小吃",
+        "address": "Kantini1.OG, Bikini, Budapester Str. 38-50, 10787 Berlin",
+        "district": "Charlottenburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3356941,
+          52.5057242
+        ]
+      },
+      "properties": {
+        "name": "BiangBiangMing(Bikini)",
+        "englishName": "Biang Biang Ming(Bikini)",
+        "category": "面馆",
+        "address": "Kantini1.OG, Bikini, Budapester Str. 38-50, 10787 Berlin",
+        "district": "Charlottenburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3939002,
+          52.5205357
+        ]
+      },
+      "properties": {
+        "name": "嘉乐",
+        "englishName": "Jolly",
+        "category": "饭店",
+        "address": "Am Kupfergraben 4, 10117 Berlin",
+        "district": "Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4001371,
+          52.5311429
+        ]
+      },
+      "properties": {
+        "name": "饮茶英雄",
+        "englishName": "Yumcha Heroes",
+        "category": "小吃",
+        "address": "Weinbergsweg 8, 10119 Berlin",
+        "district": "Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4076572,
+          52.5264145
+        ]
+      },
+      "properties": {
+        "name": "Dump Ling",
+        "englishName": "Dump Ling",
+        "category": "小吃",
+        "address": "Alte Schonhauser Str. 44, 10119 Berlin",
+        "district": "Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3996611,
+          52.5240395
+        ]
+      },
+      "properties": {
+        "name": "TheNoodleTown (Mitte)",
+        "englishName": "The Noodle Town (Mitte)",
+        "category": "面馆",
+        "address": "Große Hamburger Str. 24, 10115 Berlin",
+        "district": "Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4113525,
+          52.5529574
+        ]
+      },
+      "properties": {
+        "name": "包饺会",
+        "englishName": "Bao Gao Club (PBerg)",
+        "category": "小吃",
+        "address": "Schonhauser Allee 103, 10439 Berlin",
+        "district": "Prenzlauer Berg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4091035,
+          52.5293706
+        ]
+      },
+      "properties": {
+        "name": "马路边",
+        "englishName": "Marubi",
+        "category": "小吃",
+        "address": "Schonhauser Allee 187, 10119 Berlin",
+        "district": "Prenzlauer Berg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4129429,
+          52.5480052
+        ]
+      },
+      "properties": {
+        "name": "Yummy Dumpling",
+        "englishName": "Yummy Dumpling",
+        "category": "小吃",
+        "address": "Schonhauser Allee 122, 10437 Berlin",
+        "district": "Prenzlauer Berg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4107692,
+          52.5459935
+        ]
+      },
+      "properties": {
+        "name": "Wen Cheng (PBerg 1)",
+        "englishName": "Wen Cheng (PBerg 1)",
+        "category": "面馆",
+        "address": "Schonhauser Allee 65, 10437 Berlin",
+        "district": "Prenzlauer Berg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4072444,
+          52.5307208
+        ]
+      },
+      "properties": {
+        "name": "Wen Cheng (Pberg 2)",
+        "englishName": "Wen Cheng (Pberg 2)",
+        "category": "面馆",
+        "address": "SchonhauserAllee 10, 10119 Berlin",
+        "district": "Prenzlauer Berg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4323516,
+          52.5231221
+        ]
+      },
+      "properties": {
+        "name": "寻鲜记",
+        "englishName": "Chuan House",
+        "category": "饭店",
+        "address": "Landsberger Allee 6, 10249 Berlin",
+        "district": "Friedrichshain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4657899,
+          52.5145308
+        ]
+      },
+      "properties": {
+        "name": "如意轩火锅",
+        "englishName": "Ruyixuan Hotpot",
+        "category": "火锅",
+        "address": "Plaza,Frankfurter Allee 73C, 10247 Berlin",
+        "district": "Friedrichshain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4287701,
+          52.5021226
+        ]
+      },
+      "properties": {
+        "name": "包餃會",
+        "englishName": "Bao Gao Club (Xberg)",
+        "category": "小吃",
+        "address": "Markthalle Neun, Eisenbahnstr. 42-43, 10997 Berlin",
+        "district": "Kreuzberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.421283,
+          52.4936906
+        ]
+      },
+      "properties": {
+        "name": "牛稼莊",
+        "englishName": "Beef House",
+        "category": "小吃",
+        "address": "Kottbusser Damm 94, 10967 Berlin",
+        "district": "Neukölln"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2150124,
+          52.5369418
+        ]
+      },
+      "properties": {
+        "name": "五湖四海",
+        "englishName": "All seasons",
+        "category": "饭店",
+        "address": "Am Juliusturm 53, 13599 Berlin",
+        "district": "Spandau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1579183,
+          52.5334137
+        ]
+      },
+      "properties": {
+        "name": "万花酒楼",
+        "englishName": "Man-Far",
+        "category": "饭店",
+        "address": "Brunsbutteler Damm 260, 13581 Berlin",
+        "district": "Spandau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1702407,
+          52.549774
+        ]
+      },
+      "properties": {
+        "name": "King-Men",
+        "englishName": "King-Men",
+        "category": "饭店",
+        "address": "Falkenseer Chaussee 217, 13583 Berlin",
+        "district": "Spandau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1976768,
+          52.5428723
+        ]
+      },
+      "properties": {
+        "name": "Peking Perle",
+        "englishName": "Peking Perle",
+        "category": "饭店",
+        "address": "Falkenseer Damm 17, 13585 Berlin",
+        "district": "Spandau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3701025,
+          52.5097877
+        ]
+      },
+      "properties": {
+        "name": "煎饼堂",
+        "englishName": "Jian Bing Town @ Kerb Berlin",
+        "category": "小吃",
+        "address": "KerbFoodHall, Potsdamer Str. 4, 10785 Berlin",
+        "district": "Tiergarten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3708496,
+          52.5075884
+        ]
+      },
+      "properties": {
+        "name": "Mao Zeit柏林冒菜",
+        "englishName": "Mao Zeit",
+        "category": "麻辣烫/冒菜",
+        "address": "EG, Manefesto, Alte Potsdamer Str. 7, 10785 Berlin",
+        "district": "Tiergarten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3251011,
+          52.4654831
+        ]
+      },
+      "properties": {
+        "name": "Biang Biang Ming (Friedenau)",
+        "englishName": "Biang Biang Ming (Friedenau)",
+        "category": "面馆",
+        "address": "Schloßstraße Center, Walther-Schreiber-Platz 1, 12161 Berlin",
+        "district": "Friedenau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3387362,
+          52.5279588
+        ]
+      },
+      "properties": {
+        "name": "JuJu's Dumplings",
+        "englishName": "JuJu's Dumplings",
+        "category": "小吃",
+        "address": "Arminiusmarkethalle, Arminiusstr. 2-4, 10551 Berlin",
+        "district": "Moabit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.459208,
+          52.4322037
+        ]
+      },
+      "properties": {
+        "name": "Happy Panda",
+        "englishName": "Happy Panda",
+        "category": "饭店",
+        "address": "Johannisthaler Ch 261, 12351 Berlin",
+        "district": "Rudow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2784301,
+          52.5882872
+        ]
+      },
+      "properties": {
+        "name": "福仁",
+        "englishName": "Lucky Chinese",
+        "category": "饭店",
+        "address": "Alt-Tegel 29, 13507 Berlin",
+        "district": "Tegel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2798521,
+          52.4773947
+        ]
+      },
+      "properties": {
+        "name": "玫瑰苑",
+        "englishName": "Rosengarten",
+        "category": "饭店",
+        "address": "Hohenzollerndamm 110A, 14199 Berlin",
+        "district": "Schmargendorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4267691,
+          52.4431413
+        ]
+      },
+      "properties": {
+        "name": "Royal Gourmet",
+        "englishName": "Royal Gourmet",
+        "category": "饭店",
+        "address": "Mohriner Allee 50, 12347 Berlin",
+        "district": "Britz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3633921,
+          52.4136579
+        ]
+      },
+      "properties": {
+        "name": "佛笑楼",
+        "englishName": "Happy Buddha",
+        "category": "饭店",
+        "address": "Marienfelder Allee 145, 12279 Berlin",
+        "district": "Marienfelde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3892337,
+          52.4361117
+        ]
+      },
+      "properties": {
+        "name": "文厨房",
+        "englishName": "Wen's Kuche",
+        "category": "小吃",
+        "address": "Mariendorfer Damm 175, 12107 Berlin",
+        "district": "Mariendorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5454679,
+          52.5426418
+        ]
+      },
+      "properties": {
+        "name": "新五洲饭店",
+        "englishName": "Neu Wuzhou",
+        "category": "饭店",
+        "address": "Marzahner Promenade 13, 12679 Berlin",
+        "district": "Marzahn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6018082,
+          52.5415363
+        ]
+      },
+      "properties": {
+        "name": "汇丰酒家",
+        "englishName": "Hui Feng",
+        "category": "饭店",
+        "address": "Hellersdorfer Promenade 24, 12627 Berlin",
+        "district": "Hellersdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3809619,
+          52.456393
+        ]
+      },
+      "properties": {
+        "name": "Good Aroma",
+        "englishName": "Good Aroma",
+        "category": "小吃",
+        "address": "Tempelhofer Damm 220, 12099 Berlin",
+        "district": "Tempelhof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.395418,
+          52.4154653
+        ]
+      },
+      "properties": {
+        "name": "兄弟城",
+        "englishName": "China-Town",
+        "category": "饭店",
+        "address": "Mariendorfer Damm 442, 12107 Berlin",
+        "district": "Lichtenrade"
+      }
     }
   ]
 }
