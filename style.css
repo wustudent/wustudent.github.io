@@ -6,6 +6,12 @@ body {
     height: 100vh;
 }
 
+h1 {
+    text-align: center;
+    margin: 20px 0;
+    color: #4d4a4a;
+}
+
 #container {
     display: flex;
     flex-grow: 1;

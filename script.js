@@ -1,11 +1,5 @@
 const map = L.map('map').setView([52.519932, 13.404692], 12);
 
-// L.tileLayer(
-//     'https://tile.openstreetmap.org/{z}/{x}/{y}.png',
-//     {
-//         maxZoom: 19
-//     }
-// ).addTo(map);
 L.tileLayer('https://sgx.geodatenzentrum.de/wmts_topplus_open/tile/1.0.0/web_light/default/WEBMERCATOR/{z}/{y}/{x}.png', {
 	maxZoom: 18,
 	attribution: 'Map data: &copy; <a href="http://www.govdata.de/dl-de/by-2-0">dl-de/by-2-0</a>'
