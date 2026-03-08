@@ -2760,14 +2760,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.3138183,
-          52.5139812 
+          13.3163265,
+          52.5139803
         ]
       },
       "properties": {
         "name": "土龙",
-        "englishName": "Tu-Long",
-        "category": "饭店",
+        "englishName": "Tu Long",
+        "category": "小吃",
         "address": "Otto-Suhr-Allee 25, 10585 Berlin",
         "district": "Charlottenburg"
       }
@@ -2777,8 +2777,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.3157687,
-          52.5132752
+          13.3185871,
+          52.5133371
         ]
       },
       "properties": {
@@ -2794,15 +2794,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.2817493,
-          52.5066675
+          13.2845552,
+          52.5066568
         ]
       },
       "properties": {
         "name": "新阳光",
-        "englishName": "Asia Restaurant Sonne",
+        "englishName": "Sonne",
         "category": "饭店",
-        "address": "Neue Kantstraße 16, 14057 Berlin",
+        "address": "Neue Kantstr. 16, 14057 Berlin",
         "district": "Charlottenburg"
       }
     },
