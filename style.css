@@ -66,29 +66,31 @@ h1 {
 
 .cluster-wrapper {
     background: transparent;
+    font-size: 1rem;
 }
 
 .cluster-circle {
     background: #e58735;
     color: white;
-    width: 40px;
-    height: 40px;
+    width: 50px;
+    height: 50px;
     border-radius: 50%;
     text-align: center;
-    line-height: 40px;
+    line-height: 50px;
     font-weight: bold;
     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+    font-size: 1rem;
 }
 
 #locate-btn {
     position: absolute;
-    bottom: 20px;
-    right: 20px;
+    bottom: 50px;
+    right: 50px;
     z-index: 1000;
     background: white;
     border: 1px solid rgba(0, 0, 0, 0.2);
     border-radius: 1rem;
-    padding: 10px 8px;
+    padding: 12px 8px;
     cursor: pointer;
     box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
     font-size: 2em;

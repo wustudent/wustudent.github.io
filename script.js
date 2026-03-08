@@ -1,3 +1,5 @@
+const windowWidth = window.screen.width;
+const scaleFactor = windowWidth > 1200 ? 1 : (windowWidth > 800 ? 1.3 : 1.5);
 const map = L.map('map').setView([52.519932, 13.404692], 12);
 
 L.tileLayer('https://sgx.geodatenzentrum.de/wmts_topplus_open/tile/1.0.0/web_light/default/WEBMERCATOR/{z}/{y}/{x}.png', {
@@ -12,9 +14,9 @@ const redIcon = new L.Icon({
     shadowUrl:
         "https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png",
 
-    iconSize: [25, 41],
-    iconAnchor: [12, 41],
-    popupAnchor: [1, -34]
+    iconSize: [25*scaleFactor, 41*scaleFactor],
+    iconAnchor: [12*scaleFactor, 41*scaleFactor],
+    popupAnchor: [1*scaleFactor, -34*scaleFactor]
 });
 
 function openGoogleMaps(lat, lon, name) {
@@ -33,7 +35,7 @@ fetch("restaurants.geojson")
                 return L.divIcon({
                     html: `<div class="cluster-circle">${count}</div>`,
                     className: "cluster-wrapper",
-                    iconSize: [40, 40]
+                    iconSize: [40*scaleFactor, 40*scaleFactor]
                 });
             }
         });
