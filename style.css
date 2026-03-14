@@ -1,14 +1,20 @@
+html{
+    height: 100vh;
+}
 body {
     margin: 0;
     font-family: system-ui;
     display: flex;
     flex-direction: column;
-    height: 100vh;
+    min-height: 100vh;
+    /* mobile viewport bug fix */
+    min-height: -webkit-fill-available;
 }
 
 h1 {
     text-align: center;
-    margin: 20px 0;
+    /* margin: 20px 0; */
+    font-size: 2.5em;
     color: #4d4a4a;
 }
 
@@ -68,7 +74,7 @@ h1 {
     background: transparent;
 }
 .leaflet-popup-content{
-    font-size: 2em;
+    font-size: 2em  !important;
 }
 .leaflet-popup-close-button{
     font-size: 1.5rem !important;

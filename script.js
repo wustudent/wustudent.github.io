@@ -4,8 +4,22 @@ const map = L.map('map').setView([52.519932, 13.404692], 12);
 
 L.tileLayer('https://sgx.geodatenzentrum.de/wmts_topplus_open/tile/1.0.0/web_light/default/WEBMERCATOR/{z}/{y}/{x}.png', {
 	maxZoom: 18,
-	attribution: 'Map data: &copy; <a href="http://www.govdata.de/dl-de/by-2-0">dl-de/by-2-0</a>'
-}).addTo(map);
+	attribution: 'Map data: &copy; <a href="http://www.govdata.de/dl-de/by-2-0">dl-de/by-2-0</a>',
+    tileSize: scaleFactor===1?256:512,
+    zoomOffset: scaleFactor===1?0:-1,
+})
+.addTo(map);
+
+var zoomControl = document.querySelector('.leaflet-control-zoom');
+var locateBtn = document.querySelector('#locate-btn');
+if (zoomControl) {
+    zoomControl.style.transform = `scale(${scaleFactor>1 ? 2 : 1})`;
+    zoomControl.style.transformOrigin = 'top left';
+}
+if (locateBtn) {
+    locateBtn.style.transform = `scale(${scaleFactor})`;
+    locateBtn.style.transformOrigin = 'top left';
+}
 
 const markers = L.markerClusterGroup();
 const redIcon = new L.Icon({
@@ -18,6 +32,18 @@ const redIcon = new L.Icon({
     iconAnchor: [12*scaleFactor, 41*scaleFactor],
     popupAnchor: [1*scaleFactor, -34*scaleFactor]
 });
+
+const blueIcon = new L.Icon({
+    iconUrl:
+        "https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-blue.png",
+    shadowUrl:
+        "https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png",
+
+    iconSize: [25*scaleFactor, 41*scaleFactor],
+    iconAnchor: [12*scaleFactor, 41*scaleFactor],
+    popupAnchor: [1*scaleFactor, -34*scaleFactor]
+});
+
 
 function openGoogleMaps(lat, lon, name) {
     const url = `https://www.google.com/maps?q=${name}&sll=${lat},${lon}`;
@@ -97,7 +123,7 @@ fetch("restaurants.geojson")
             if (locateMarker) {
                 locateMarker.setLatLng(latlng);
             } else {
-                locateMarker = L.marker(latlng).addTo(map).bindPopup('You are here');
+                locateMarker = L.marker(latlng, { icon: blueIcon}).addTo(map).bindPopup('You are here');
             }
 
             // add/move accuracy circle
@@ -119,7 +145,7 @@ fetch("restaurants.geojson")
             locateBtn.textContent = prevText;
         }, {
             enableHighAccuracy: true,
-            timeout: 10000,
+            timeout: 5000,
             maximumAge: 0
         });
     });
