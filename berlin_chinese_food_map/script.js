@@ -13,7 +13,6 @@ L.tileLayer('https://sgx.geodatenzentrum.de/wmts_topplus_open/tile/1.0.0/web_lig
 var zoomControl = document.querySelector('.leaflet-control-zoom');
 var locateBtn = document.querySelector('#locate-btn');
 
-// const markers = L.markerClusterGroup();
 const redIcon = new L.Icon({
     iconUrl:
         "https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-red.png",
