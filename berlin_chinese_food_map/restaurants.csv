@@ -24,7 +24,7 @@ Nr.,店名,中文店名,英文店名,类别,连锁,地址,城区
 23,龙门牛肉面大王/Lon Men's Noodle House,龙门牛肉面大王,Lon Men's Noodle House,面馆,否,"Kantstr. 33, 10625 Berlin",Charlottenburg
 24,伴面/BanNoodle,伴面,Ban Noodle,面馆,否,"Kantstr. 62, 10627 Berlin",Charlottenburg
 25,Little Little Restaurant,Little Little Restaurant,Little Little Restaurant,面馆,否,"StuttgarterPl. 16, 10627 Berlin",Charlottenburg
-26,BiangBiangMing(Bikini),Biang Biang Ming(Bikini),Biang Biang Ming(Bikini),面馆,是,"Kantini 1.OG, Bikini, Budapester Str. 38-50, 10787 Berlin",Charlottenburg
+26,BiangBiangMing(Bikini),Biang Biang Ming (Bikini),Biang Biang Ming (Bikini),面馆,是,"Kantini 1.OG, Bikini, Budapester Str. 38-50, 10787 Berlin",Charlottenburg
 27,HanBitesKTV,HanBitesKTV,Han Bites KTV,串烧,否,"Kantstr. 120, 10625 Berlin",Charlottenburg
 28,YouMi串烧,YouMi串烧,You Mi,串烧,否,"Kantstr. 56, 10627 Berlin",Charlottenburg
 29,帽牌冒菜/MaoMaster,帽牌冒菜,Mao Master,麻辣烫/冒菜,否,"Kantstr. 50, 10625 Berlin",Charlottenburg
@@ -127,7 +127,6 @@ Nr.,店名,中文店名,英文店名,类别,连锁,地址,城区
 126,陈记牛肉面馆/Chen'sNoodleHouse(Neukölln 1),陈记牛肉面馆 (Neukölln 1),Chen's Noodle House (Neukölln 1),面馆,是,"Karl-Marx-str. 78, 12043 Berlin", Neukölln
 127,陈记牛肉面馆/Chen'sNoodleHouse(Neukölln 2),陈记牛肉面馆 (Neukölln 2),Chen's Noodle House (Neukölln 2),面馆,是,"Karl-Marx-str. 101, 12043 Berlin", Neukölln
 128,南吉/Gaststätte Südpol,南吉,Gaststätte Südpol,烧烤,否,"Dieselstr. 20, 12057 Berlin", Neukölln
-129,富隆酒楼/Fu-Long,富隆酒楼,Fu-Long,饭店,否,"BritzerDamm 18, 12347 Berlin", Neukölln
 130,五湖四海/Allseasons,五湖四海,All seasons,饭店,否,"Am Juliusturm 53, 13599 Berlin", Spandau
 131,长青酒楼/Evergreen,长青酒楼,Evergreen,饭店,否,"Magistratsweg 31, 13593 Berlin", Spandau
 132,澳门酒楼/Macao,澳门酒楼,Macao,饭店,否,"BreiteStr. 37, 13597 Berlin", Spandau
@@ -153,7 +152,7 @@ Nr.,店名,中文店名,英文店名,类别,连锁,地址,城区
 152,喜临门/HeeLamMun,喜临门,Hee Lam Mun,饭店,否,"Grunewaldstr. 23, 12165 Berlin", Steglitz
 153,杨国福/Yangguofu(Steglitz),杨国福,Yangguofu(Steglitz),麻辣烫/冒菜,是,"Albrechtstr. 131, 12165 Berlin", Steglitz
 154,煎饼堂/JianBingTown,煎饼堂,Jian Bing Town @ Kerb,小吃,否,"Kerb Food Hall, Potsdamer Str. 4, 10785 Berlin", Tiergarten
-155,陈记牛肉面馆/Chen'sNoodleHouse(Tiergarten),陈记牛肉面馆,Chen's Noodle House(Tiergarten),面馆,是,"ManifestoMarket,AltePotsdamerStr. 7, 10785 Berlin", Tiergarten
+155,陈记牛肉面馆/Chen'sNoodleHouse(Tiergarten),陈记牛肉面馆(Tiergarten),Chen's Noodle House(Tiergarten),面馆,是,"ManifestoMarket,Alte Potsdamer Str. 7, 10785 Berlin", Tiergarten
 156,傻妞面馆/Shaniu'sHouseofNoodles(Tiergarten),傻妞面馆,Shaniu's Houseof Noodles(Tiergarten),面馆,是,"Kurfurstenstr. 79, 10787 Berlin", Tiergarten
 157,Mao Zeit,Mao Zeit柏林冒菜,Mao Zeit,麻辣烫/冒菜,否,"Manifesto Market,Alte Potsdamer Str. 7, 10785 Berlin", Tiergarten 
 158,竹园酒楼/bambus,竹园酒楼,Bambus,饭店,否,"Rheinstr 43, 12161 Berlin", Friedenau
@@ -165,7 +164,7 @@ Nr.,店名,中文店名,英文店名,类别,连锁,地址,城区
 164,金色花园/GoldenGarden,金色花园,Golden Garden,饭店,否,"HeinersdorferStr. 19A, 12209 Berlin", Lichterfelde
 165,帝苑/RoyalGarden,帝苑,Royal Garden,饭店,否,"OsdorferStr. 26, 12207 Berlin", Lichterfelde
 166,面之缘/LaLaNoodleofSichuan,面之缘,LaLa Noodle of Sichuan,面馆,否,"Enzianstr. 2, 12203 Berlin", Lichterfelde
-167,HappyPanda,HappyPanda,Happy Panda,饭店,否,"Johannisthaler Ch. 261, 12351 Berlin", Rudow
+167,HappyPanda,Happy Panda,Happy Panda,饭店,否,"Johannisthaler Ch. 261, 12351 Berlin", Rudow
 168,云/Wan-Loi,云,Wan-Loi,饭店,否,"NeuköllnerStr. 302, 12357 Berlin", Rudow
 169,熊猫酒楼/PandaII,熊猫酒楼,Panda II,饭店,否,"RudowerStr. 173, 12351 Berlin", Rudow
 170,新华/SunWah,新华,Sun Wah,饭店,否,"Alt-Tegel 4, 13507 Berlin", Tegel

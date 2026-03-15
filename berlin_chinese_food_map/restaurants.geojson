@@ -266,7 +266,7 @@
         ]
       },
       "properties": {
-        "name": "Rong's Noodle house",
+        "name": "Rong's Noodlehouse",
         "englishName": "Rong's Noodlehouse",
         "category": "面馆",
         "address": "Leibnizstr. 101, 10625 Berlin",
@@ -1405,11 +1405,28 @@
         ]
       },
       "properties": {
-        "name": "陈记牛肉面馆",
+        "name": "陈记牛肉面馆 (Xberg)",
         "englishName": "Chen's Noodle House (Xberg)",
         "category": "面馆",
         "address": "Adalbertstr. 7, 10999 Berlin",
         "district": "Kreuzberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3741147,
+          52.5074122
+        ]
+      },
+      "properties": {
+        "name": "陈记牛肉面馆 (Tiergarten)",
+        "englishName": "Chen's Noodle House (Tiergarten)",
+        "category": "面馆",
+        "address": "Alte Potsdamer Str. 7, 10785 Berlin",
+        "district": "Tiergarten"
       }
     },
     {
@@ -2085,8 +2102,8 @@
         ]
       },
       "properties": {
-        "name": "7Dumpling",
-        "englishName": "7Dumpling",
+        "name": "7 Dumpling",
+        "englishName": "7 Dumpling",
         "category": "小吃",
         "address": "AnsbacherStr. 29, 10789 Berlin",
         "district": " Schöneberg"
@@ -2850,8 +2867,8 @@
         ]
       },
       "properties": {
-        "name": "BiangBiangMing(Bikini)",
-        "englishName": "Biang Biang Ming(Bikini)",
+        "name": "Biang Biang Ming (Bikini)",
+        "englishName": "Biang Biang Ming (Bikini)",
         "category": "面馆",
         "address": "Budapester Str. 38-50, 10787 Berlin",
         "district": "Charlottenburg"
