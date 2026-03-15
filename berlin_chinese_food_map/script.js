@@ -1,5 +1,6 @@
 const windowWidth = window.screen.width;
-const scaleFactor = windowWidth > 1200 ? 1 : (windowWidth > 800 ? 1.3 : 1.5);
+// const scaleFactor = windowWidth > 1200 ? 1 : (windowWidth > 800 ? 1.3 : 1.5);
+const scaleFactor = 1;
 const map = L.map('map').setView([52.519932, 13.404692], 12);
 
 L.tileLayer('https://sgx.geodatenzentrum.de/wmts_topplus_open/tile/1.0.0/web_light/default/WEBMERCATOR/{z}/{y}/{x}.png', {
@@ -12,14 +13,14 @@ L.tileLayer('https://sgx.geodatenzentrum.de/wmts_topplus_open/tile/1.0.0/web_lig
 
 var zoomControl = document.querySelector('.leaflet-control-zoom');
 var locateBtn = document.querySelector('#locate-btn');
-if (zoomControl) {
-    zoomControl.style.transform = `scale(${scaleFactor>1 ? 2 : 1})`;
-    zoomControl.style.transformOrigin = 'top left';
-}
-if (locateBtn) {
-    locateBtn.style.transform = `scale(${scaleFactor})`;
-    locateBtn.style.transformOrigin = 'top left';
-}
+// if (zoomControl) {
+//     zoomControl.style.transform = `scale(${scaleFactor>1 ? 2 : 1})`;
+//     zoomControl.style.transformOrigin = 'top left';
+// }
+// if (locateBtn) {
+//     locateBtn.style.transform = `scale(${scaleFactor})`;
+//     locateBtn.style.transformOrigin = 'top left';
+// }
 
 const markers = L.markerClusterGroup();
 const redIcon = new L.Icon({

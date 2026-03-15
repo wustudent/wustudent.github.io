@@ -117,11 +117,11 @@ h1 {
 .cluster-circle {
     background: #e58735;
     color: white;
-    width: 50px;
-    height: 50px;
+    width: 50pt;
+    height: 50pt;
     border-radius: 50%;
     text-align: center;
-    line-height: 50px;
+    line-height: 50pt;
     font-weight: bold;
     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
     font-size: 1.5rem;
@@ -129,13 +129,13 @@ h1 {
 
 #locate-btn {
     position: absolute;
-    bottom: 50px;
-    right: 50px;
+    bottom: 12pt;
+    right: 12pt;
     z-index: 1000;
     background: white;
     border: 1px solid rgba(0, 0, 0, 0.2);
-    border-radius: 1rem;
-    padding: 12px 8px;
+    border-radius: 12pt;
+    padding: 10pt 6pt;
     cursor: pointer;
     box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
     font-size: 2em;
