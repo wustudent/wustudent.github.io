@@ -9,6 +9,7 @@ body {
     min-height: 100svh;
     /* mobile viewport bug fix */
     /* min-height: -webkit-fill-available; */
+    overflow-y: hidden;
 }
 
 h1 {
@@ -48,6 +49,7 @@ h1 {
 #container {
     display: flex;
     flex-grow: 1;
+    height: 100%;
 }
 
 #sidebar {
