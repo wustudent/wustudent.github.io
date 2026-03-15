@@ -41,6 +41,17 @@ function openGoogleMaps(lat, lon, name) {
     window.open(url, "_blank");
 }
 
+const categoriesMapping = {
+    "饭店": "Restaurant",
+    "小吃": "Snack",
+    "面馆": "Noodle Shop",
+    "串烧": "Skewers",
+    "麻辣烫/冒菜": "Hot Pot",
+    "火锅": "Hot Pot",
+    "素食": "Vegetarian",
+    "烧烤": "Barbecue"
+};
+
 // 定义全局变量 geojsonData
 let geojsonData;
 
@@ -249,9 +260,6 @@ function initializeFilters(data) {
         }
     });
 
-    console.log('提取的区域:', districts); // 调试信息
-    console.log('提取的类别:', categories); // 调试信息
-
     // 对区域进行排序
     Array.from(districts).sort().forEach(district => {
         const option = document.createElement('option');
@@ -263,7 +271,7 @@ function initializeFilters(data) {
     categories.forEach(category => {
         const option = document.createElement('option');
         option.value = category;
-        option.textContent = category;
+        option.textContent = category+"/"+categoriesMapping[category] || ""; 
         categoryFilter.appendChild(option);
     });
 }
