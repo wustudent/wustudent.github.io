@@ -100,7 +100,7 @@ h1 {
     background: transparent;
 }
 .leaflet-popup-content{
-    font-size: 12pt;
+    font-size: 10pt;
 }
 .leaflet-popup-close-button{
     font-size: 12pt;
@@ -109,7 +109,7 @@ h1 {
 }
 .popup-btn{
     padding: 0 auto;
-    font-size: 12pt;
+    font-size: 10pt;
     padding: 5pt 10pt;
     border-radius: 5pt;
 }
@@ -117,14 +117,14 @@ h1 {
 .cluster-circle {
     background: #e58735;
     color: white;
-    width: 40pt;
-    height: 40pt;
+    width: 30pt;
+    height: 30pt;
     border-radius: 50%;
     text-align: center;
-    line-height: 40pt;
+    line-height: 30pt;
     font-weight: bold;
     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
-    font-size: 16pt;
+    font-size: 14pt;
 }
 
 #locate-btn {
