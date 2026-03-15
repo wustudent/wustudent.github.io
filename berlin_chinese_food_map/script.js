@@ -81,8 +81,7 @@ fetch("restaurants.geojson")
                 <b>${p.name}</b><br>
                 <b>${(p.name!==p.englishName)?p.englishName:''}</b><br>
                 ${p.address}<br><br>
-
-                <button onclick="openGoogleMaps(${lat}, ${lon}, '${p.englishName}')" class="popup-btn">
+                <button onclick="openGoogleMaps(${lat}, ${lon}, \`${p.englishName}\`)" class="popup-btn">
                     ➤ Open in Google Maps 
                 </button>
             `);
@@ -130,9 +129,14 @@ fetch("restaurants.geojson")
                 const lon = feature.geometry.coordinates[0];
                 const marker = L.marker([lat, lon], { icon: redIcon });
 
-                marker.bindPopup(`
-                    <strong>${feature.properties.name}</strong><br>
-                    ${feature.properties.address}
+                 marker.bindPopup(`
+                    <b>${feature.properties.name}</b><br>
+                    <b>${(feature.properties.name!==feature.properties.englishName)?feature.properties.englishName:''}</b><br>
+                    ${feature.properties.address}<br><br>
+
+                    <button onclick="openGoogleMaps(${lat}, ${lon}, '${feature.properties.englishName}')" class="popup-btn">
+                        ➤ Open in Google Maps 
+                    </button>
                 `);
 
                 markers.addLayer(marker);
