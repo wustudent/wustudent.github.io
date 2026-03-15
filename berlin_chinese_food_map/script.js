@@ -134,7 +134,7 @@ fetch("restaurants.geojson")
                     <b>${(feature.properties.name!==feature.properties.englishName)?feature.properties.englishName:''}</b><br>
                     ${feature.properties.address}<br><br>
 
-                    <button onclick="openGoogleMaps(${lat}, ${lon}, '${feature.properties.englishName}')" class="popup-btn">
+                    <button onclick="openGoogleMaps(${lat}, ${lon}, \`${feature.properties.englishName}\`)" class="popup-btn">
                         ➤ Open in Google Maps 
                     </button>
                 `);
