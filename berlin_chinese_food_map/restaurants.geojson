@@ -2420,23 +2420,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.308374,
-          52.4673154
-        ]
-      },
-      "properties": {
-        "name": "锅锅香",
-        "englishName": "Guoguoxiang",
-        "category": "饭店",
-        "address": "Breitenbachpl. 8, 14195 Berlin",
-        "district": " Dahlem"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           13.2831459,
           52.4590597
         ]
