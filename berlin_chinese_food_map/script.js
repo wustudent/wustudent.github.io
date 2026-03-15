@@ -41,9 +41,16 @@ function openGoogleMaps(lat, lon, name) {
     window.open(url, "_blank");
 }
 
+// 定义全局变量 geojsonData
+let geojsonData;
+
 fetch("restaurants.geojson")
     .then(r => r.json())
     .then(data => {
+        console.log('原始数据:', data); // 调试信息
+        preprocessData(data); // 调用预处理函数
+        geojsonData = data; // 将预处理后的数据赋值给全局变量
+        console.log('预处理后的数据:', data); // 调试信息
 
         const markers = L.markerClusterGroup({
             iconCreateFunction: function (cluster) {
@@ -75,7 +82,7 @@ fetch("restaurants.geojson")
                 <b>${(p.name!==p.englishName)?p.englishName:''}</b><br>
                 ${p.address}<br><br>
 
-                <button onclick="openGoogleMaps(${lat}, ${lon}, \`${p.englishName}\`)" class="popup-btn">
+                <button onclick="openGoogleMaps(${lat}, ${lon}, '${p.englishName}')" class="popup-btn">
                     ➤ Open in Google Maps 
                 </button>
             `);
@@ -85,7 +92,72 @@ fetch("restaurants.geojson")
 
         map.addLayer(markers);
 
-    });
+        // 确保在函数外部定义 districtFilter 和 categoryFilter
+        const districtFilter = document.getElementById('district-filter');
+        const categoryFilter = document.getElementById('category-filter');
+
+        // 过滤数据并更新地图
+        function filterData() {
+            const selectedDistrict = districtFilter.value;
+            const selectedCategory = categoryFilter.value;
+
+            const filteredFeatures = geojsonData.features.filter(feature => {
+                const matchesDistrict = selectedDistrict === 'all' || feature.properties.district === selectedDistrict;
+                const matchesCategory = selectedCategory === 'all' || feature.properties.category === selectedCategory;
+                return matchesDistrict && matchesCategory;
+            });
+
+            updateMap(filteredFeatures);
+        }
+
+        // 更新地图显示
+        function updateMap(features) {
+            // 清空现有的 MarkerClusterGroup
+            markers.clearLayers();
+
+            // 如果没有剩余点，返回
+            if (features.length === 0) {
+                console.warn('没有符合条件的点');
+                return;
+            }
+
+            // 创建边界对象
+            const bounds = L.latLngBounds();
+
+            // 添加过滤后的点
+            features.forEach(feature => {
+                const lat = feature.geometry.coordinates[1];
+                const lon = feature.geometry.coordinates[0];
+                const marker = L.marker([lat, lon], { icon: redIcon });
+
+                marker.bindPopup(`
+                    <strong>${feature.properties.name}</strong><br>
+                    ${feature.properties.address}
+                `);
+
+                markers.addLayer(marker);
+
+                // 扩展边界
+                bounds.extend([lat, lon]);
+            });
+
+            // 将更新后的 MarkerClusterGroup 添加回地图
+            map.addLayer(markers);
+
+            // 缩放地图到边界范围
+            map.fitBounds(bounds);
+        }
+
+        // 监听下拉菜单变化
+        [districtFilter, categoryFilter].forEach(filter => {
+            filter.addEventListener('change', filterData);
+        });
+
+        // 初始化过滤器和地图
+        initializeFilters(data);
+        filterData();
+    })
+    .catch(err => console.error('加载 geojson 数据时出错:', err));
 
 (function () {
     const locateBtn = document.getElementById('locate-btn');
@@ -141,3 +213,62 @@ fetch("restaurants.geojson")
         });
     });
 })();
+
+// 预处理数据，去除 district 的前后空格
+function preprocessData(data) {
+    data.features.forEach(feature => {
+        if (feature.properties && feature.properties.district) {
+            feature.properties.district = feature.properties.district.trim();
+        }
+    });
+}
+
+// 初始化下拉菜单选项
+function initializeFilters(data) {
+    const districtFilter = document.getElementById('district-filter');
+    const categoryFilter = document.getElementById('category-filter');
+
+    if (!districtFilter || !categoryFilter) {
+        console.error('下拉菜单元素未找到');
+        return;
+    }
+
+    const districts = new Set();
+    const categories = new Set();
+
+    data.features.forEach(feature => {
+        if (feature.properties && feature.properties.district) {
+            districts.add(feature.properties.district.trim()); // 去除前后空格
+        }
+        if (feature.properties && feature.properties.category) {
+            categories.add(feature.properties.category);
+        }
+    });
+
+    console.log('提取的区域:', districts); // 调试信息
+    console.log('提取的类别:', categories); // 调试信息
+
+    // 对区域进行排序
+    Array.from(districts).sort().forEach(district => {
+        const option = document.createElement('option');
+        option.value = district;
+        option.textContent = district;
+        districtFilter.appendChild(option);
+    });
+
+    categories.forEach(category => {
+        const option = document.createElement('option');
+        option.value = category;
+        option.textContent = category;
+        categoryFilter.appendChild(option);
+    });
+}
+
+// 获取按钮和过滤框元素
+const toggleFilterButton = document.getElementById('toggle-filter');
+const filtersContainer = document.getElementById('filters');
+
+// 添加按钮点击事件监听器
+toggleFilterButton.addEventListener('click', () => {
+    filtersContainer.classList.toggle('hidden');
+});

@@ -148,3 +148,44 @@ h1 {
     cursor: default;
 }
 
+  #filter-container {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    z-index: 1000;
+    display: flex;
+    flex-direction: column-reverse; /* 使按钮在过滤框下方 */
+  }
+
+  #toggle-filter {
+    /* background-color: #007BFF; */
+    background: white;
+    border: #afaaaa 1px solid;
+    border-radius: 12pt;
+    padding: 7pt 7pt 5pt 7pt;
+    cursor: pointer;    
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+    width: fit-content; /* 确保按钮宽度仅适应内容 */
+    height: auto; /* 确保按钮高度不会随内容变化 */
+    box-sizing: border-box; /* 防止内边距影响大小 */
+  }
+
+  #filters {
+    background: white;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    margin-top: 10px;
+    display:flex;
+    flex-direction: column;
+    gap: 5px;
+    margin-bottom: 5pt;
+  }
+  #filters>label {
+    font-family: system-ui;
+    font-size: medium;
+  }
+
+  .hidden {
+    visibility: hidden;
+  }

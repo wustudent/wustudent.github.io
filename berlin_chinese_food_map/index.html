@@ -46,6 +46,24 @@ href="style.css"/>
     <button id="locate-btn" title="Show my location" aria-label="Show my location">📍</button>
 </div>
 
+<!-- 添加过滤器设置框和按钮 -->
+<div id="filter-container">
+  <button id="toggle-filter">
+    <img src="filter.svg" alt="filter" style="width: 20pt; height: 20pt;">
+  </button>
+  <div id="filters" class="hidden">
+    <label for="district-filter">区域/Quarter:</label>
+    <select id="district-filter">
+      <option value="all">所有/All</option>
+    </select>
+
+    <label for="category-filter">类别/Category:</label>
+    <select id="category-filter">
+      <option value="all">所有/All</option>
+    </select>
+  </div>
+</div>
+
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
 <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
