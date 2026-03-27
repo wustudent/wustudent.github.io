@@ -3383,6 +3383,23 @@
         "address": "Mariendorfer Damm 442, 12107 Berlin",
         "district": "Lichtenrade"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.33299,
+          52.50672
+        ]
+      },
+      "properties": {
+        "name": "食坊居",
+        "englishName": "Shifang House",
+        "category": "饭店",
+        "address": "Rankestraße 32, 10789 Berlin",
+        "district": "Charlottenburg"
+      }
     }
   ]
 }
